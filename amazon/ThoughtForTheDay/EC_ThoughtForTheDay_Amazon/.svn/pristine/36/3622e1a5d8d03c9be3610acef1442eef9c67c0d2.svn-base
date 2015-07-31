@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1" 
+         android:orientation="vertical" >
+
+        <RelativeLayout
+            style="@style/FillWrapWidgetStyle"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/leftButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/left_btn" />
+
+            <Button
+                android:id="@+id/rightButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignBaseline="@+id/leftButton"
+                android:layout_alignBottom="@+id/leftButton"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/right_btn" />
+
+            <TextView
+                android:id="@+id/title"
+                style="@style/titleTextView"
+                android:layout_alignBottom="@+id/leftButton"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/thoughts"
+            style="@style/FillParentWidgetStyle"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="42dp"
+            android:layout_weight="1" >
+
+            <com.ceosoftcenters.thoughtfortheday.widget.ThoughtsGallery
+                android:id="@+id/gallery"
+                style="@style/FillParentWidgetStyle"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:fadingEdge="none"
+                android:spacing="2dp" 
+                >
+            </com.ceosoftcenters.thoughtfortheday.widget.ThoughtsGallery>
+        </RelativeLayout>
+    </RelativeLayout>
+
+   
+
+</LinearLayout>

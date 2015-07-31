@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    
+    <LinearLayout 
+        style="@style/actionBarLinearLayout"
+        android:id="@+id/thoughtsButton"
+        >
+        <ImageView 
+            style="@style/WrapContentWidgetStyle"
+            android:src="@drawable/thoughts"
+            />
+        <TextView 
+            style="@style/actionBarTextView"
+            android:text="Thoughts"
+            />
+    </LinearLayout>
+    
+    <LinearLayout 
+        style="@style/actionBarLinearLayout"
+        android:id="@+id/favoriteButton"
+        >
+        <ImageView 
+            style="@style/WrapContentWidgetStyle"
+            android:src="@drawable/favorite"
+            />
+        <TextView 
+            style="@style/actionBarTextView"
+            android:text="Favorite"
+            />
+    </LinearLayout>
+    
+    <LinearLayout 
+        style="@style/actionBarLinearLayout"
+        android:id="@+id/tipsButton"
+        >
+        <ImageView 
+            style="@style/WrapContentWidgetStyle"
+            android:src="@drawable/howtouse"
+            />
+        <TextView 
+            style="@style/actionBarTextView"
+            android:text="Tips"
+            />
+    </LinearLayout>
+    
+    
+    <LinearLayout 
+        style="@style/actionBarLinearLayout"
+        android:id="@+id/edgarCayceButton"
+        >
+        <ImageView 
+            style="@style/WrapContentWidgetStyle"
+            android:src="@drawable/edgar_cayce"
+            />
+        <TextView 
+            style="@style/actionBarTextView"
+            android:text="Edgar Cayce"
+            />
+    </LinearLayout>
+    
+    <LinearLayout 
+        style="@style/actionBarLinearLayout"
+        android:id="@+id/infoButton"
+        >
+        <ImageView 
+            style="@style/WrapContentWidgetStyle"
+            android:src="@drawable/info"
+            />
+        <TextView 
+            style="@style/actionBarTextView"
+            android:text="Info"
+            />
+    </LinearLayout>
+    
+</LinearLayout>

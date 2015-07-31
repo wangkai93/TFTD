@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- add in v1.1.5 -->
+    <dimen name="favorite_item_height">55dp</dimen>
+    
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+  <color name="black">#000000</color> 
+  <color name="white">#FFFFFF</color> 
+  <color name="gray">#888889</color>
+  <color name="blue">#3A79E2</color>
+  <drawable name="seekBar">#3A79E2</drawable>
+  <drawable name="white">#FFFFFF</drawable> 
+  <color name = "grey">#ff999999</color>
+  
+     
+    <color name="textColorUnselected">#103F5D</color>
+    <color name="textColorSelected">#FFFFFF</color>
+    <color name="loginTextColor">#4A4A4A</color>
+    <color name="progress_start">#000000</color>
+    <color name="progress_end">#007AB3</color>
+    <color name="progress_center">#FF0000</color>
+    
+    <color name="actionsheet_bg">#222222</color>
+    
+    <color name="background">#FF000000</color>
+    <color name="control_back">#AA00003D</color>
+  
+  
+</resources>

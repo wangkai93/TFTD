@@ -1,0 +1,1738 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:css="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=Title content="">
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=macintosh">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="How%20to%20Study%20the%20Readings%20text_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Alison</o:Author>
+  <o:LastAuthor>Robin</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2011-09-02T07:24:00Z</o:Created>
+  <o:LastSaved>2011-09-02T07:24:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>3576</o:Words>
+  <o:Characters>20389</o:Characters>
+  <o:Company>ARE</o:Company>
+  <o:Lines>169</o:Lines>
+  <o:Paragraphs>47</o:Paragraphs>
+  <o:CharactersWithSpaces>23918</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="How%20to%20Study%20the%20Readings%20text_files/themedata.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Note Level 1"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Note Level 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 7"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 8"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 9"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="37" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true"
+   Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Courier New";
+	panose-1:2 7 3 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:OfficinaSans-Bold;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Cambria;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times-Roman;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times-Italic;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:ZapfDingbats;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"Zapf Dingbats";
+	mso-font-charset:2;
+	mso-generic-font-family:decorative;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Times-Bold;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:-227;
+	mso-list-template-ids:-305608100;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	margin-left:162.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	margin-left:306.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:265617996;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1557911768 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Calibri;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p ><b><div style='font-size:44.0pt;font-family:"OfficinaSans-Bold","sans-serif";
+mso-bidi-font-family:OfficinaSans-Bold;text-align:center;width:100%'>How to Study the Edgar Cayce Readings</div></b></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>When individuals came to Edgar Cayce with a
+question, he would lie down on a couch and place himself into a self-induced
+sleep state. While in that state, he could respond to virtually any question
+asked. His responses have come to be called “readings” and have stood the test
+of intensive research for nearly 100 years. These readings are a rich and
+informative collection of psychic documents, but their unusual style, format,
+and language can take some getting used to. It is hoped these guidelines will
+assist you in your study of the readings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>The vast majority of the more than 14,000
+readings were given for individuals who came to Cayce or wrote to him asking
+for help. Each person has been assigned a two-part case number to protect the
+individual’s privacy. The first set of digits refers to the person’s name. The
+second set, following the dash, designates the number of that reading in a
+series. For example, reading 341-31 was the thirty-first reading Edgar Cayce gave
+to a man whose name has been replaced with case number 341. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>A small percentage of the collection is made
+up of readings given for a </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>group </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>of people (e.g., the series numbered 281 was given to a prayer
+healing group; the series numbered 262 for the original “A Search for God”
+study group) or readings given on a </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>topic of
+general interest </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>(e.g., series 364 on Atlantis or series 3744
+on psychic phenomena). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Cayce always had other people in the room
+with him as he lay in a trance to give a reading. A conductor, often his wife
+Gertrude, would supervise the process by reciting a suggestion and asking the
+questions. A stenographer would be on hand to record his words verbatim. In
+many instances, there were also observers. You’ll notice at the beginning <span
+class=GramE>of each reading important information</span> that was inserted by
+Cayce’s secretary, Gladys Davis Turner. She noted the date, time, and location
+where the reading was given, along with a list of those in attendance. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>The reading then indicates what sort of
+suggestion was spoken to the entranced Cayce in order to initiate the reading.
+These words were carefully chosen commands directed to Cayce’s unconscious,
+requesting a definite kind of help and instructing him as to what type of
+information was requested. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>What typically followed was a general
+discourse by Cayce. </span><span style='font-size:36.0pt;font-family:Symbol;
+mso-bidi-font-family:Symbol'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span
+style='font-size:36.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>If the reading was for someone who was ill, Cayce would follow a general
+scheme for a “physical reading,” in which he analyzed the various systems of
+the body: circulatory, nervous, digestive, and so on. </span><span
+style='font-size:36.0pt;font-family:Symbol;mso-bidi-font-family:Symbol'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span
+style='font-size:36.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>If the reading was a request for guidance to understand one’s
+purpose in life&#8212;known as a “life reading”&#8212;the opening discourse
+analyzed the strengths and weaknesses of that soul. In those life readings,
+Cayce first used planetary and astrological language to refer to traits and
+tendencies, <span class=GramE>then</span> related details of several past lives
+from which strong influences might be experienced in the present. </span><span
+style='font-size:36.0pt;font-family:Symbol;mso-bidi-font-family:Symbol'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span
+style='font-size:36.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>If the reading was to give spiritual advice&#8212;what came to be
+known as a “mental-spiritual reading”&#8212;the opening discourse presented a
+lesson about spiritual laws and principles for living. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Questions were generally posed to the
+entranced Cayce following the opening discourse. A copy of the transcribed
+reading includes the questions exactly as the conductor read them to him, along
+with Cayce’s responses. On occasion, the person seeking help had not submitted
+questions, so the entire reading is simply the opening discourse and remarks. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>When excerpts of the Cayce readings appear in
+various books and magazines, they are almost always limited to the text itself.
+However, more in-depth research into the readings often requires information on
+the background of the person who obtained the reading along with follow-up
+reports on what the individual did with the information. For many, although not
+all, that sort of supplemental information is available as an appendix to the
+reading, called “reports.” <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>A question frequently asked is: What was the </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>source </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>of this information that came through Edgar
+Cayce? As you read the text of a reading, the answer may not seem clear. When
+Cayce himself asked about this source in various readings, the following was
+given: His own higher self&#8212;or his <span class=SpellE>superconscious</span>
+mind&#8212;was the source of the information. So it was not a nonphysical being
+speaking through Edgar Cayce but his own <span class=SpellE>superconscious</span>
+mind that generally obtained the information from the individual getting the
+reading or from what he called the </span><span class=SpellE><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>Akashic</span></i></span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'> Records.
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>These records can be briefly described as a
+history of every soul since the dawn of creation. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Cayce’s <span class=SpellE>superconscious</span>
+mind often relayed information in a manner quite different from our
+conversational style today. Sometimes the language and sentence structure are
+challenging to decipher. But with a few clues and guidelines, you’ll become more
+proficient in being able to understand exactly what was meant. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>First, expect to slow down your reading pace
+as you study this material. Many times the sentences are exceedingly long, and
+it may help you to mentally insert punctuation marks to create pauses or
+shorter sentences. You may even wish to read it aloud. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Second, be patient with your efforts to study
+this information. You may find that there are portions of a reading that don’t
+make sense to you, even after several attempts. Yet the most experienced students
+of this material often encounter the same problem. Rather than get bogged down
+with a sentence that is confusing, keep on reading. Further clarification may
+appear later in that same reading. Or you may find that only after days or
+weeks does it <span class=GramE>become<span style="mso-spacerun:yes">&nbsp;
+</span>clear</span> to you what Cayce meant by a particular statement. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Third, develop an understanding of the
+language style of the readings, which was often biblical in both tone and content.
+In the waking state, Cayce was a devoted student of the Bible. It is natural
+that some of this material would find its way into his readings. More than anything
+else, this characteristic shows the reverence Cayce had for the process of
+giving a reading. He took each very seriously, and he felt that each was like a
+sacred trust given to him. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>It’s fair to ask, <span class=GramE><i
+style='mso-bidi-font-style:normal'>If</i></span><i style='mso-bidi-font-style:
+normal'> Cayce was so smart when he was in trance, why couldn’t he have found a
+way of speaking that would be easy to understand?</i> Part of the reason for
+this communication difficulty is that his mind was operating at another level
+of consciousness&#8212;one in which words were often inadequate. He was trying
+to convey&#8212;in three-dimensional, logical terms&#8212;information that he
+could perceive with far greater depth and understanding. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Perhaps, too, the source of this information
+wanted us to work at getting to the meaning and value of what we are reading.
+If everything was immediately obvious and we could read the material superficially,
+we might never roll up our sleeves and get involved in trying to understand
+deeply what this information is all about. It’s worth the effort! Learning
+directly from the Cayce readings is one of the most exciting opportunities available
+to researchers today! <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Get to know the readings themselves. You’ll
+find they are just as valuable and timely today as they were to the people who
+first received them decades ago. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>The following reading (341-31), which
+provides practical insights into how to stay healthy, was given to a male twenty-three
+years of age whose family was very involved in the Cayce work. So step by step,
+take yourself through this Edgar Cayce reading. </span><span style='font-size:
+36.0pt;font-family:ZapfDingbats;mso-bidi-font-family:ZapfDingbats'>&#10070; <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:ZapfDingbats;
+mso-bidi-font-family:ZapfDingbats'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Note: To search the entire set of readings, log
+in to the member section at EdgarCayce.org. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><span style="mso-spacerun:yes">&nbsp;</span></span><b><span
+style='font-size:36.0pt;font-family:"Times-Bold","serif";mso-bidi-font-family:
+Times-Bold'>TEXT OF READING 341-31 M 23</span></b><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>Note: Italicized comments in brackets appearing
+at the end of each paragraph are not part of the reading itself but have been inserted
+to help you interpret this sample reading. <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>This Psychic Reading given by Edgar Cayce at
+his office, 115 West 35th Street, Virginia Beach, Va., this 10th day of March,
+1931, in accordance with request made by self&#8212;Mr. [341]. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>P R E S E N T <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Edgar Cayce; Gertrude Cayce, Conductor; Gladys
+Davis, Steno. [341], [243], [304], and [340]. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[The transcript lists where the reading was
+given and who was present. Numbers in brackets are other individuals who were
+present to hear (341<span class=GramE>)’s</span> reading. To preserve
+anonymity, numbers were inserted for most names.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>R E A D I N G <o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>Time of Reading 11:55
+A. M. Eastern Standard Time . . . Va.</span></span><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>1. GC: You will have before you the body and
+the enquiring mind of [341], present in this room. Please advise and guide me
+in my attempt to bring the physical body to a point where it may be a better
+channel for the manifestation of the spiritual forces. Please answer the questions
+I will ask. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Gertrude Cayce reads aloud to her husband a
+suggestion that enables him to focus his unconscious mind on the person and the
+question. Oftentimes, the suggestion’s wording was the same (other than
+changing the individual’s name and address) from one person to another, so the
+text might simply state “Physical Suggestion” or “Life Reading Suggestion” in
+place of her other introductory comments.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>2. EC: Yes, we have the body, the enquiring
+mind, [341]. This we have had before. There are changes in the physical forces
+of the body since last we had <span class=GramE>same</span> here. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[After entering the trance state, Edgar Cayce
+would begin speaking and affirm that he had made a psychic connection with the
+individual. Cayce notes that readings have been previously given for this
+person (“This we have had before”) and that certain physical changes have occurred
+since the last reading.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>3. There are corrections to be made in the
+physical structure of the body, would the body be the better channel for the manifestations
+of the phenomena of life, even in the material plane. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Some improvements in physical health are
+needed if the young man really desires to express spiritual forces in materiality.]
+<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>4. Would the body in its functioning through
+those of the organs of the physical forces be the bettered, then the better
+operation, the better and nearer functioning of the organs will make for a
+better </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>physical </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>body&#8212;as
+in the sensory system, that makes for conditions as respecting the
+vision-physical. There are the needs of corrections in the upper dorsal and the
+cervical region, that the impingements, the strains that have produced the
+elongation in optic forces, may be the bettered. It will be found that after a
+period it would be well to change the glasses to meet or to coincide with the
+changes that will take place, and within three to six moons the <span
+class=SpellE>bodyphysical</span> should be able to quit the use of glasses at
+all. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Improvements in eyesight can be expected in
+three to six months if he’ll give attention to imbalances in his spine, particularly
+in the upper back and neck areas. From previous readings the young man knows
+that what’s needed are spinal adjustments from an osteopath, along with
+exercises to strengthen those areas.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>5. There is also an unbalancing of the vitamins
+in the physical functioning of the body. There is the lack of elements that
+make for physical structural forces of body. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Cayce also notes that there are vitamin deficiencies,
+particularly those that play a key role in the strength of the body’s physical
+structure.]<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>6. </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>When </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>the </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>mental </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>is used in such a manner, </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>this </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>partakes of a different condition than when
+the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>physical </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>forces
+are exercised in the body. It would be well for the body to so conduct, so arrange
+the activities of the body as to be better </span><i><span style='font-size:
+36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>balanced
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>as to the mental and the physical attributes
+of the body. Take more outdoor exercise, that&#8212;that brings into play the
+muscular forces of the body. It isn’t that the mental should be numbed, or
+should be cut off from their operations or their activities&#8212;but make for
+a more evenly, more perfectly balanced body-physical </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>and </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>mental. Know how to apply the rules of </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>metaphysical </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>operations to a
+corncob, or to a fence rail, or to a hammer, an axe, a walking cane, as well as
+the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>theories </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>of this,
+that, or other mind, that in nine cases in ten is seen to become a storehouse for
+mental deficiencies of </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>physical </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>energies! Now get the difference! It is not mental unbalance, but
+a mental body may be so </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>overused </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>as to allow physical energies to become </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>detrimental </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>forces </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>in a physical body; </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>for each
+energy </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>must </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>expend
+itself in </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>some </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>direction,
+even as a thought that takes form brings in to being a mental image. Is that
+image in the position of being a </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>building </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>force cooperative with the energies of the physical body? Or do they
+</span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>destroy </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>some
+motive force in the physical without allowing an outlet for its activity? <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Recently, the young man has been too exclusively
+involved in mental activities, and his physical energies aren’t being given the
+chance to be used harmoniously and constructively.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>7. Then, be a well-</span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>rounded </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>body. Take specific, </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>definite </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>exercises morning and evening.
+Make the body </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>physically </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>as well as mentally, tired and those things that have been
+producing those conditions where sleep, inertia, poisons in system from
+non-eliminations, will disappear&#8212;and so will the body respond to the
+diets. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[By taking the time to have regular morning
+and evening physical exercises, things will start to improve: insomnia will
+disappear, the buildup of bodily toxins will be eliminated, and dietary changes
+will start to show results.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>8. Now, in the matter of diets&#8212;</span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>one </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>activity is necessary, if there is to be a mental
+diet&#8212;or if there is to be a diet for a well-rounded </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>physically </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>useful, </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>mentally </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>useful, </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>spiritually </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>useful body. But there
+is the lack of vitamins as B and C, in this body. <span class=GramE>One, the C,
+stamina for mental energies that are carried in the white tissue in nerve
+energy and plexus.</span> B, as is of calcium, of silicon, of iron. These would
+be well-balanced, will those [if those will be taken] of the food values that
+carry same be taken, but </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>unless </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>the activities physical for the body are such as to put same into </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>activity </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>they become <span
+class=SpellE>drosses</span> and set </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>themselves
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>to become operative, irrespective of </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>other </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>conditions. (This as aside, but as very well
+in keeping with the circumstances or conditions.) Vitamins in a body are elements
+that are combative with, or in opposition to, the various activities of a
+living organism, and may be termed&#8212;and well termed&#8212;as those of
+bacilli of any nature within a human or physical organism. That’s what we are talking
+of, or dealing with in this body. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Cayce presents his view of vitamin deficiencies
+and how they may be addressed for the individual. Vitamins are best obtained
+from foods themselves; however, the reading states that it’s possible to get
+them in too high a quantity&#8212;especially if a person isn’t very active
+physically&#8212;and then the vitamins become a burden (dross) to the system.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>9. Now, when these are taken into the system,
+if they are </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>not </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>put to work
+by the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>activities </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>of the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>system</span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>&#8212;either
+physical or mental&#8212;they become </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>destructive
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>tissue, for they </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>affect </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>the <span class=SpellE>plasm</span> [plasma] of
+the blood supply or the emunctory and lymph which is another name for a portion
+of a blood supply in a system. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Details are given concerning the exact way
+that an oversupply of vitamins becomes detrimental. The influence is particularly
+in the two circulation systems of the body: the blood and the lymph.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>10. Then, in the meeting of the diet&#8212;be
+sure the activities, physically, and mentally, are in keeping with; and </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>do not do </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>these </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>spasmodically, </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>but </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>be </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>consistent&#8212; for the physical body, the
+mental body, the spiritual body, is as “Grow in grace, in knowledge, in
+understanding.” [2 Pet. 3:18] <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[The young man is encouraged to keep a diet
+that matches his activity level&#8212; mentally and physically. He’s not to go in
+spurts, but rather to be consistent in his nutritional program.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>11. That thou <span class=SpellE>eatest</span>,
+</span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>see </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>it </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>doing </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>that </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>thou </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>would </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>have </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>it do. Now
+there is often considered as to why do those of either the vegetable, mineral,
+or combination compounds, have different effects under different conditions? It
+is the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>consciousness </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>of the </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>individual body! </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>Give one a dose of clear </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>water, </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>with the impression that it will act as salts&#8212;how often will
+it act in that manner? <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[The mind plays a very significant role, as
+can be demonstrated through hypnosis where the belief shapes the body’s reaction.
+In other words, a person’s beliefs largely determine the effect that any food
+will have. Visualization can be a constructive tool as one imagines the health-promoting
+potential of a meal.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>12. Just as the impressions to the whole of
+the organism, for each cell of the blood stream, each <span class=GramE>corpuscle,</span>
+is a whole </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>universe </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>in
+itself. Do not eat like a canary and expect to do </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>manual </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>labor. Do not eat like a <span class=GramE>rail
+splitter</span> and expect to do the work of a mind reader or a university
+professor, but be </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>consistent </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>with those things that make for&#8212;even as the </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>universe </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>is <span class=SpellE>builded</span>.
+In the layers of one is dependent upon the activity of another. One that fills
+the mind, the very being, with an expectancy of God will see His movement, His
+manifestation, in the wind, the sun, the earth, the flowers, the inhabitant </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>of </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>the earth; and so as is <span class=SpellE>builded</span>
+in the body, is it to gratify </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>just </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>an appetite, or is it taken to fulfill an office that </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>will </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>the better make, the better magnify, that the
+body, the mind, the soul, </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>has </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>chosen to stand </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>for? </span></i><span
+class=GramE><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>and</span></span><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'> it will not
+matter so much what, where, or </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>when</span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>&#8212;but knowing </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>that </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>it is consistent with that&#8212;that is desired to be
+accomplished </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>through </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>that
+body! <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Every cell of the body is like a universe in
+itself, and so one should expect to build the body with the same laws and principles
+as govern how the universe is built. The young man is asked to consider </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>why </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>he eats and to see a purpose bigger than to
+simply satisfy an appetite. He’s encouraged to build a body to serve the cause
+for which he wants to stand.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>13. As has been given of old, when the children
+of Israel stood with the sons of the heathen [Dan. 1:5-8] and all ate from the
+king’s table, that which was taken that only exercised the imagination of the
+body in physical desires&#8212;as strong drink, strong meats, condiments that magnify
+desires within the body&#8212;this <span class=SpellE>builded</span> as Daniel
+well understood, not for </span><i><span style='font-size:36.0pt;font-family:
+"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>God’s </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>service&#8212;but he chose rather that the </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>everyday, </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>the common things would
+be given, that the bodies, the minds, might be a more perfect channel for the
+manifestations of </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>God; </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>for the forces
+of the Creator are in </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>every </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>force
+that is made manifest </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>in </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>the earth. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[The story in the first chapter of Daniel perfectly
+illustrates the very point Cayce has just made about diet, consciousness, and
+one’s purpose in life.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>14. Few are able, even as the prophet of old,
+[I Kings 19:11-12] to see God in battle, in the shedding of blood, in the thunder,
+in the lightning, in the earthquake, in the various tumults in nature&#8212; but
+</span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>all </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>may
+experience Him in the still small voice within! Do </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>thou </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>likewise, and the body is the temple </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>of </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>the living God, and is a </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>reasonable </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>service that we present
+same holy and acceptable unto Him. [Rom. 12:1] <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Drawing further on biblical passages, Cayce
+reminds the young man that </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>everyone </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>has the opportunity to meet God within the temple of his or her
+own body. Therefore, it makes good sense to honor and treat the body with
+respect.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>15. Just as great a sin to </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>over </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>eat as to over drink<span class=GramE>;</span>
+to over </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>think </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>as
+to over act! </span><span class=GramE><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>in</span></i></span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'> </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>that thou <span class=SpellE>buildest</span>,
+do even as He. Make <span class=SpellE>thine</span> body, <span class=SpellE>thine</span>
+</span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>mind, </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>ready
+for </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>every </span></i><span style='font-size:
+36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>occasion
+that arises in the life. Think well on what was given, “</span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>Why </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>could not </span><i><span style='font-size:
+36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>we
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>cast him out? Such is done only&#8212;</span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>only</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>&#8212;through fasting and prayer.” [Luke
+11:33] When thou <span class=SpellE>prayest</span>, enter into <span
+class=SpellE>thine</span> closet&#8212;that is, within self&#8212;not shutting
+oneself away from the world, but closing self to God’s </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>presence, </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>and pray in secret and
+the reward will be in the open; for, as was given, “Men do not light a candle
+and put it under a bushel, but it is set&#8212;</span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>set</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>&#8212; on a hill, that it may give </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>life, </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>light, unto all.” <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[There are lots of ways that we can get out
+of balance&#8212;including thinking too much and not acting enough. Cayce recommends
+looking to Christ as an example of how to use one’s mind and as an example of
+the importance of a sincere prayer life if an individual wants to be helpful to
+others.]<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>16. So, in conducting <span class=SpellE>thine</span> own
+life&#8212; make the physical corrections necessary, yes&#8212;but make also
+thy mind and <span class=SpellE>thine</span> body, <span class=SpellE>thine</span>
+going in and <span class=SpellE>thine</span> coming out, <span class=SpellE>thine</span>
+activities day by day, consistent </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>with</span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>&#8212;and the reward will be&#8212;an exemplary life, a </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>goodly </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>body, an </span><i><span style='font-size:
+36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>open
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>mind, a </span><i><span style='font-size:
+36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>loving
+</span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>spirit! <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[If the young man will consistently follow
+the advice given, the reward will be a balanced life.]<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>17. Few may show forth that even felt in the heart with the liver
+bad, for twice does the blood pass through the liver to once in the heart. The
+liver is the <span class=GramE>clearing house</span> both for that of the blood
+in and out of the heart and lungs. So in the conduct of the life, in the study,
+think twice before you speak once&#8212;for there’s only </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>one </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>tongue but two eyes. There is only </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>one </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>heart but seven lobes in the liver; and in <span
+class=SpellE>thine</span> hands&#8212;use that thou hast, and <span
+class=SpellE>thine</span> eye will be </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>single </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>in service, <span class=SpellE>thine</span> tongue will be loosed
+in the right direction. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[The structure and function of the body is a
+symbolic lesson to us all about how to live. Cayce cites several medical facts about
+the body and suggests that they are reminders to see and to think carefully
+before we speak or act.]<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>18. Ready for questions. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Still asleep on the couch, at the end of the
+reading Cayce will usually say, “Ready for questions.” Gertrude often read the
+questions; however, if the individual getting the reading was present,
+sometimes that person could simply </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>think </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>the question and Cayce would answer it without being asked.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>19. (Q) <span
+class=GramE>What</span> condition is causing the rapid decay of the teeth and
+what should be done to correct this other than the steps already taken? <o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'><span
+style='mso-tab-count:1'>&nbsp; </span>(A) This has been given, and this has been
+outlined. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>There should be the change to meet those necessary conditions in
+the supply of the system, that there may be more calcium, more silicon, and
+more iron added in <span class=GramE>same</span>. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>These will be with physical activities of the body, and with the
+taking of foods as compatible with the conditions as to be met. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>Those in the food values as would be taken, </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>are </span></i><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>the activities [if the activities are] to be
+in keeping </span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>with </span></i><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>same, would
+be those of the fruits of the ground, those of the leafy vegetables, those that
+carry magnesia [-<span class=SpellE>ium</span>?], iron, silicon, calcium, and
+such&#8212;see? <o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'><span
+style='mso-tab-count:1'>&nbsp; </span>Not too much with the use of those that
+carry phosphorus and the like, for these </span><i><span style='font-size:36.0pt;
+font-family:"Times-Italic","serif";mso-bidi-font-family:Times-Italic'>waste </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>away. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:36.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>Don’t eat too many oysters, nor too much <span class=SpellE>seafoods</span>&#8212;but
+</span><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>sufficiently </span></i><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>balanced in these, dependent upon the activities of the body. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:36.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>Outline as to what the activities are to be! Then there may be a </span><i><span
+style='font-size:36.0pt;font-family:"Times-Italic","serif";mso-bidi-font-family:
+Times-Italic'>perfect </span></i><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>balance in a diet! <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[Specific recommendations are given for dental
+care. This illustrates what happened in many readings: the opening discourse
+presented the main themes and principles, and then Cayce would give more
+detailed suggestions in the question-and-answer period.] <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>20. We are through for the present. <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'>[At the end of every reading, Cayce stated
+when he was through, at which point Gertrude gave him the suggestion to allow
+his own physical forces to return to normal and to “wake up.” After a few
+moments, Cayce would awaken, having no memory of what he had said while
+asleep.]<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Times-Italic","serif";
+mso-bidi-font-family:Times-Italic'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'>* * *<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Feel free to take another look at this reading,
+and see if your understanding of the information grows on the second pass.
+You’ll find that the Edgar Cayce readings are a rich heritage of information,
+insights, and inspiration that are available on nearly any topic imaginable. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:36.0pt;font-family:"Times-Bold","serif";
+mso-bidi-font-family:Times-Bold'>For further information, please contact: <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>Edgar Cayce’s A.R.E.&#8212;Association
+for Research and Enlightenment, Inc.</span></span><span style='font-size:36.0pt;
+font-family:"Times-Roman","serif";mso-bidi-font-family:Times-Roman'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>215 67th Street <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Virginia Beach, VA 23451-2061 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>757-428-3588 800-333-4499 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>Web site: EdgarCayce.org <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>E-mail: are@edgarcayce.org <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:
+"Times-Roman","serif";mso-bidi-font-family:Times-Roman'>Edgar Cayce readings
+©1971, 1993-2007 by the Edgar Cayce Foundation.</span></span><span
+style='font-size:36.0pt;font-family:"Times-Roman","serif";mso-bidi-font-family:
+Times-Roman'> All rights reserved.</span><span style='font-size:36.0pt'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Times-Roman","serif";
+mso-bidi-font-family:Times-Roman'>X-HTRR-BR</span><span style='font-size:36.0pt'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

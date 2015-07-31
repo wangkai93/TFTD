@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/info"
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/titleStyle"
+            android:background="@drawable/info_title" />
+
+        <RelativeLayout
+            style="@style/quareLineStyle"
+            android:background="@drawable/info_line" >
+
+            <RelativeLayout
+                style="@style/WrapContentWidgetStyle"
+                android:layout_alignParentTop="true" >
+
+                <ImageView
+                    android:id="@+id/copyRightImage"
+                    style="@style/FillWrapWidgetStyle"
+                    android:layout_marginTop="30dp"
+                    android:src="@drawable/copyrights_bg"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:id="@+id/copyrightLine1"
+                    android:layout_below="@id/copyRightImage"
+                    style="@style/infoViewTab"
+                    android:text="@string/copyrightLine1" />
+
+                <TextView
+                    android:id="@+id/copyrightLine2"
+                    style="@style/infoViewTab"
+                    android:layout_below="@+id/copyrightLine1"
+                    android:text="@string/copyrightLine2" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                style="@style/WrapContentWidgetStyle"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/sound_controller" >
+
+                <ImageView
+                    android:id="@+id/soundClose"
+                    style="@style/WrapContentWidgetStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="12dp"
+                    android:paddingRight="10dp"
+                    android:src="@drawable/switch_on" />
+
+                <SeekBar
+                    android:id="@+id/sound"
+                    style="@style/soundSeekbarStyle"
+                    android:layout_width="400dp"
+                    android:layout_marginTop="20dp"
+                    />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

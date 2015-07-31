@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  -->
+    <style name="WrapContentWidgetStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="FillParentWidgetStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="FillWrapWidgetStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="actionBarTextView" parent="@style/WrapContentWidgetStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="infoTextView" parent="@style/WrapContentWidgetStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <style name="actionButtonStyle" parent="@style/WrapContentWidgetStyle">
+	    <item name="android:layout_centerHorizontal">true</item>
+	     <item name="android:orientation">horizontal</item>
+	      <item name="android:layout_alignParentTop">true</item>
+	       <item name="android:layout_marginTop">2dp</item>
+	</style>
+
+    <style name="leftButton" parent="@style/infoTextView">
+        <item name="android:background">@drawable/left_button_blue</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+
+    <style name="rightButton" parent="@style/WrapContentWidgetStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:background">@drawable/right_button_white</item>
+    </style>
+
+    <style name="WrapContentWidgetStyleTab">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="infoTextView2" parent="@style/infoTextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="infoView" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="titleTextView" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    
+    <style name="readTextView" parent="@style/WrapContentWidgetStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="favoriteTextView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+<!--     <style name="shareTextView" parent="@style/WrapContentWidgetStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:singleLine">true</item>
+    </style> -->
+
+    <style name="actionBarLinearLayout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="progressBarStyle">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">35dp</item>
+    </style>
+
+    <style name="ThoughtswebView" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">23dp</item>
+        <item name="android:layout_marginBottom">25dp</item>
+        <item name="android:layout_marginTop">102dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="readScrollViewStyle" parent="@style/FillWrapWidgetStyle">
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <!-- use for infoVie,tipsView,edgarCayceView -->
+    <style name="titleStyle" parent="@style/WrapContentWidgetStyle">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="quareLineStyle" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_below">@+id/title</item>
+        <item name="android:layout_marginBottom">35dp</item>
+        <item name="android:layout_marginLeft">7dp</item>
+        <item name="android:layout_marginRight">7dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    
+    <style name="smalltitleStyle" parent="@style/WrapContentWidgetStyle">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    
+    <style name="smallquareLineStyle" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_below">@+id/title</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginLeft">7dp</item>
+        <item name="android:layout_marginRight">7dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="webViewStyle" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_below">@+id/actionButtons</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="infoViewTab" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textSize">21sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ThoughtswebViewTab" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">23dp</item>
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:layout_marginTop">140dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="leftButtonTab" parent="@style/WrapContentWidgetStyleTab">
+        <item name="android:textSize">17sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/left_button_blue</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+
+    <style name="rightButtonTab" parent="@style/WrapContentWidgetStyleTab">
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:background">@drawable/right_button_white</item>
+    </style>
+
+    <style name="ThoughtswebViewTabMotorola" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_marginLeft">120dp</item>
+        <item name="android:layout_marginRight">80dp</item>
+        <item name="android:layout_marginBottom">55dp</item>
+        <item name="android:layout_marginTop">285dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+    
+    <style name="WrapContentWidgetStyleTabMotorola">
+        <item name="android:layout_width">340dp</item>
+        <item name="android:layout_height">55dp</item>
+    </style>
+
+    <style name="leftButtonTabMotorola" parent="@style/WrapContentWidgetStyleTabMotorola">
+        <item name="android:textSize">28sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/left_button_blue</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
+    <style name="rightButtonTabMotorola" parent="@style/WrapContentWidgetStyleTabMotorola">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:background">@drawable/right_button_white</item>
+    </style>
+    
+     <style name="webViewStyleTabMotorola" parent="@style/FillParentWidgetStyle">
+          <item name="android:layout_below">@+id/actionButtons</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginLeft">9dp</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+    
+     <style name="infoViewTabMotorola" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textSize">40sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+     <style name="titleStyleTabMotorola" parent="@style/WrapContentWidgetStyle">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+    
+     <style name="titleTextViewTabMotorola" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">41sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    
+     <style name="quareLineStyleTabMotorola" parent="@style/FillParentWidgetStyle">
+        <item name="android:layout_below">@+id/title</item>
+        <item name="android:layout_marginBottom">40dp</item>
+        <item name="android:layout_marginLeft">35dp</item>
+        <item name="android:layout_marginRight">35dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    
+     <style name="WrapContentWidgetStyleTabMdpi">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">55dp</item>
+    </style>
+    
+     <style name="leftButtonTabMdpi" parent="@style/WrapContentWidgetStyleTabMdpi">
+        <item name="android:textSize">24sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/left_button_blue</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">6dp</item>
+    </style>
+    
+     <style name="rightButtonTabMdpi" parent="@style/WrapContentWidgetStyleTabMdpi">
+         <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:background">@drawable/right_button_white</item>
+    </style>
+    
+     <style name="webViewStyleTabMdpi" parent="@style/FillParentWidgetStyle">
+          <item name="android:layout_below">@+id/actionButtons</item>
+        <item name="android:layout_marginTop">7dp</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">7dp</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+    
+     <style name="infoViewTabMdpi" parent="@style/FillWrapWidgetStyle">
+        <item name="android:textSize">28sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <!-- refactoring in v1.1.5 -->
+    <style name="soundSeekbarStyle" parent="WrapContentWidgetStyleTab">
+        <item name="android:layout_below">@id/soundClose</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:max">100</item>
+        <item name="android:progress">50</item>
+        <item name="android:progressDrawable">@drawable/seekbar_style</item>
+        <item name="android:thumb">@drawable/seekbar_thumb</item>
+    </style> 
+
+</resources>
