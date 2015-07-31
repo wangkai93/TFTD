@@ -1,0 +1,1203 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:css="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=Title content="">
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="How%20to%20Study%20the%20Readings%20text_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Alison</o:Author>
+  <o:LastAuthor>Robin</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2011-09-02T07:24:00Z</o:Created>
+  <o:LastSaved>2011-09-02T07:24:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>3576</o:Words>
+  <o:Characters>20389</o:Characters>
+  <o:Company>ARE</o:Company>
+  <o:Lines>169</o:Lines>
+  <o:Paragraphs>47</o:Paragraphs>
+  <o:CharactersWithSpaces>23918</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="How%20to%20Study%20the%20Readings%20text_files/themedata.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Note Level 1"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Note Level 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 7"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 8"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 9"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="37" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true"
+   Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial";
+	panose-1:2 7 3 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:OfficinaSans-Bold;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Cambria;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times-Roman;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times-Italic;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:ZapfDingbats;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"Zapf Dingbats";
+	mso-font-charset:2;
+	mso-generic-font-family:decorative;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Times-Bold;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Times;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Arial";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Arial";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Arial";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Arial";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Arial";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:-227;
+	mso-list-template-ids:-305608100;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	margin-left:162.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	margin-left:306.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:265617996;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1557911768 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Calibri;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p ><b><div style='font-size:44.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:Arial;text-align:center;width:100%'>如何学习埃德加·凯西解读</div></b></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>当人们带着疑问来求助埃德加•凯西时，他（埃德加•凯西）会躺在沙发上，并进入到自我催眠状态。在这种状态下，他几乎能够回答所有被问及的问题。他的回答被称作“解读”，近100年来饱经各项深入研究测试的考验。这些解读集合了丰富、翔实的灵异信息，但其不同寻常的风格、形式和语言可能需要一定时间来适应。希望该指南能够为您对解读的研究提供帮助。<o:p></o:p></span>
+</p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>在超过14000多项解读中，绝大多数是为上门或向埃德加•凯西写信的求助者所做的。每名求助者都编有一个由两部分组成的案例编号，以保护个人隐私。第一组数字代表了求助者的姓名。破折号后的第二组数字则表示该系列中某项解读的编号。例如：第341-31项解读即表示埃德加•凯西对编号341的求助者所做的第31次解读。 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>只有很少的一部分解读是为</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>群体</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>所做的(例如：编号为281的系列解读是为祈祷治疗组所做的；编号为262的系列解读是为“探索上帝”研究组所做的)或针对</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>大众兴趣主题</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>所做的解读(例如：关于亚特兰蒂斯的364系列或关于灵异现象的3744系列解读)。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>当凯西躺在长椅上，并在入定状态下给出解读时，他总是让其他人和他一起待在房间里。一名主导人，通常是她的妻子（格特鲁德），会通过叙述建议和询问问题来管理整个过程。速记员坐在他的旁边并记录下他的原话。在很多情况下，还会有观察者。在开始部分您将看到由凯西的秘书格拉迪斯•戴维斯•特纳填入的 <span class=GramE>每项解读的重要信息</span>。她在每项解读上注明了所做解读的日期、时间和地点及参与人员清单。解读还会详细描述当时为发起解读向入定中的凯西提出了什么类型的建议。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>这些措辞是针对凯西的无意识状态精心挑选的一些指令，向其请求明确的帮助并指示凯西需要得到的信息类型。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>之后，凯西通常会给出一般性的论述。</span><span style='font-size:36.0pt;font-family:Arial;mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:36.0pt;font-family:Symbol;mso-fareast-font-family:Arial;mso-bidi-font-family:Arial'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Arial"'> </span></span></span><![endif]><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>如果解读是针对生病的人做的，则凯西会遵循“身体健康解读”的一般方案，对人体的各个系统进行分析：循环系统、神经系统、消化系统等等。</span><span style='font-size:36.0pt;font-family:Arial;mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:36.0pt;font-family:Arial;mso-fareast-font-family:Arial;mso-bidi-font-family:Arial'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Arial"'> </span></span></span><![endif]><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>如果解读是为了指引人理解生命的意义（称为“生命目标”），则凯西会用开放性的话语会对心灵的优势与劣势进行分析。在此类生命解读中，凯西首次使用了行星和占星学的语言。<span class=GramE>并</span>论述了可能会对今生有重大影响的往世的特征、倾向和相关细节。</span><span style='font-size:36.0pt;font-family:Arial;mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:36.0pt;font-family:Arial;mso-fareast-font-family:Arial;mso-bidi-font-family:Arial'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Arial"'> </span></span></span><![endif]><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>如果解读是为了给出灵力建议（被称为精神心灵上的解读），则凯西会用开放性的话语阐述与生命相关的灵力法则与原理。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>通常在凯西入定并开始说话后向其提出问题。已记录解读的副本包括主导人读给凯西的所有问题和凯西的回答。有时，求助者可能并未提交问题，因此整个解读可能只包含开放性的话语和评论。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>凯西解读的节选在出现在不同的书籍和杂志中时，几乎总是限制为文本本身。但是，与解读相关的更加深入的研究通常需要了解被解读者的背景信息及其对此信息利用情况的跟踪报告。对于很多解读来说（尽管并非所有），此类附加信息作为解读的附录提供，称为“报告”。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>有一个问题经常被问及：埃德加•凯西所给出的信息</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>来源 </span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>于何处？ 在您阅读解读的文本内容时，可能并不会得到明确的答案。当凯西本人在多项解读中被问到这个问题时，他给出了这样的回答: 解读信息的来源是他自身较高的潜意识或<span class=SpellE>超意识</span>心智。所以它不是经由埃德加•凯西表达出来的非物质存在，而是他自身通常能够从被解读者或其所谓的<span class=SpellE><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>阿卡西</span></i></span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>记录</span></i>中获取信息的<span class=SpellE>超意识</span>。<span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>这些记录可以简洁地描述为每个灵魂在自诞生之日起的历史。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>凯西的<span class=SpellE>超意识</span>通常以一种与当今语言风格完全不同的方式传递信息。有时候，他所用的语言和句子结构非常难以理解。但是，通过一些线索和指引，您将能够更加熟练地理解凯西所表达的意义。 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>首先，在学习本材料的过程中，您要有阅读速度会下降的预期。很多时候，材料中的句子会非常长，而有了这样的预期后，仿佛您的心理上插入了标点符号，能够建立停顿或使句子变短。您甚至可能希望把它大声的读出来。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>第二，学习本资料的过程中要非常耐心并努力付出。您可能会发现解读的某些部分即使在您尝试多次后仍然无法理解。然而，即使对研究本材料最有经验的学生也经常会遇到这样的问题。与其纠结于一个无法理解的句子，不如跳过继续读下去。可能后面的内容会有进一步的阐述。也可能是仅仅几天或几周之后，您就会发现凯西对某一特别陈述所要表达的意思<span class=GramE>变得<span style="mso-spacerun:yes"></span>非常明显。</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>第三，建立对解读语言风格（常常采用与《圣经》一致的声调和内容）的理解。在清醒状态下，凯西是一名虔诚的基督徒。因此在其解读中很自然地会涉及《圣经》中的某些内容。而更为重要的是，这一特征展示了凯西对于解读过程的敬畏。他严肃地对待每一次解读，在他看来每一次解读都是给予他的一次神圣的信任。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>人们可能会问：<span class=GramE><i
+style='mso-bidi-font-style:normal'>既然</i></span><i style='mso-bidi-font-style:
+normal'>凯西在催眠状态下如此通灵，他为什么没能找到更易于理解的表达方式呢？</i> 而显然存在这样的疑问也是合理的。造成交流障碍的一部分原因是其心智处在另外的一种意识层面，在该意识层面上，词汇通常是不充分的。因此他尝试用三维、逻辑术语传达其能够更深的感知和理解的信息。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>或许，该信息的来源也希望我们真正地理解所阅读内容的意义和价值。如果一切都是那么的显而易见，轻松易读，那么我们可能永远都不会卷起袖子，全力地去尝试深入地理解本资料的所有内容。这份努力是很值得的！直接从凯西解读中学习是最令研究人员兴奋的机遇之一。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>逐渐地了解解读本身。你会发现他们对于今天的我们和数十年前接受解读的个体而言同样适时和有价值。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>以下是对一位彼时二十三岁的男子所做的解读（341-31），该名男子的家人对参与凯西的解读非常积极；该解读提供了关于如何保持健康的实用见解。因此，让我们从这开始一步一步学习埃德加•凯西解读吧。</span><span style='font-size: 36.0pt;font-family:Arial;mso-bidi-font-family:Arial'>&#10070; <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:Arial;mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>注释：如要检索整套解读材料，请登录EdgarCayce.org.的会员专区。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><span style="mso-spacerun:yes">&nbsp;</span></span><b><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>解读文本341-31 M 23</span></b><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>注释：每段最后出现在括号中的斜体评论内容，并非解读本身的一部分，而是为了帮助您理解示例解读而添加的备注信息。<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>1931年3月1日，应[341]号先生本人之请求，埃德加•凯西于弗吉尼亚州弗吉尼亚海滩西35街115号办公室内所做的灵异解读。 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>在场人员：<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>埃德加•凯西； 主导人格特鲁德•凯西；速记员格拉迪斯•戴维斯，[341]、[243]、[304]和[340]。 <o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【该文字记录列明了进行解读的地点和到场的人员。括号中的数字代表到场旁听的其他人员 （341<span class=GramE>)的</span> 解读，为了保证匿名，大多数名字用数字代替。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>解读 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>解读时间：弗吉尼亚州……美国东部标准时间上午11：55。</span></span><span style='font-size:36.0pt; font-family:"Arial","serif";mso-bidi-font-family:Arial'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>1.格特鲁德•凯西：你面前是【341】号求助者及其心灵，存在于这个房间里。请告知我、指引我，以精神力量提供肉体问题的解决方案。请回答我将询问的问题。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【格特鲁德•凯西将暗示大声地读给自己的丈夫，使其能够将潜意识集中到被解读者和问题上。通常，对不同的个体来说，该暗示的措辞是一样的（只需要更改姓名和地址），因此该文本可简单的表述为“身体健康暗示”或“生命解读暗示”，以取代她介绍性的评论。】 <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>2. 埃德加•凯西：是的，我们发现了【341】这个个体和他想要询问的心灵。我们以前见到过他。从上次<span class=GramE>见面</span>之后，他的生理效力发生了变化。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【在进入轻度催眠状态后，埃德加•凯西会开始说话并证实其已与该被解读者建立心灵连接。凯西注意到先前已为该被解读者进行过解读（我们以前见到过他），且自上次解读以来，他已发生了特定的身体变化。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>3.身体的物理构造待矫正，身体是否能够成为生命现象表现的更好渠道，即使是在物质位面中。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【如果这个年轻人真地希望在物质中表达精神力量，则有必要对生理健康进行一定的改善。】
+<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>4.如果个体通过器官功能表现出来的身体机能能够得到改善，则器官运行将得到改善；器官的改善表现出更好和更接近原来状态的功能，从而使</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>物质</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>身体明显改善，如在感官系统中，有助于创造与视觉机体相关的更好条件。个体需要对背部和颈部进行纠正治疗，以改善其对视力的影响。一段时间后会发现，需要更换眼镜以满足或与视力变化保持一致。三到六个月内，<span class=SpellE></span>就能完全停止使用眼镜。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【如果个体能够注意到其脊柱尤其是上背部和颈部区域中的平衡缺失，则预期个体的视力将在三到六个月内得到改善。从先前的解读中，这名年轻人知道应该进行后背脊柱的调整，并进行锻炼。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>5.个体还存在维他命不均衡的问题。缺少某些能够为其提供物理结构性力量的元素。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>【凯西还注意到个体维生素的缺失，尤其那些对个体身体构造力量具有重要作用的维生素。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>6. </span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>当</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>以这样的一种方式使用</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>精神系统</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>时，</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>它</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>会呈现出与在体内锻炼</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>机体</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>能力不同的条件。个体若按照这种方式行动并安排机体的活动，将有助于个体在机体的精神和身体属性方面达到更好的</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>平衡</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>更多地参加能够锻炼个体肌肉力量的户外活动。这并不意味精神应该被麻痹或应与其运行或活动阻断，而是要建立更加均匀和完全平衡的机体——精神上</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>和</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>身体上。了解如何将</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>形而上学</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>的操作法则应用到玉米穗轴、栅栏或锤头、斧头、步行手杖及各种</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>心灵理论</span></i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>，了解十之八九会造成心理缺陷的
+</span><i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>身体</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>能量。现在我们找到区别了！并非是精神失衡，而是精神体被</span><i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>过度使用</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>，从而使身体能量变成了</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>物理身体</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>中的</span><i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>有害</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>力量</span></i></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>，因为每种能量</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>均必须</span></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'></span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>沿特定</span></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>方向将自身消耗掉，正如一个成形的想法会产生一种精神意象一样。该意象所处位置是否能够成为与物理身体能量合作的</span><i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>构建</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>力量？或是否其会</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>破坏</span></i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>身体中的某些原动力不允许其活动的发出？<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【近期，该年轻人过度地融入到精神活动中，其身体能量未得到机会被积极、和谐地使用。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>7.要使身体</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>全面</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>发展。每天早晚进行具体、</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>明确</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>的练习。
+使</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>身心</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>感到疲倦，此时系统中产生睡眠、迟钝和毒害问题的各种条件将被消除，并消失，而个体也会恢复食欲。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【通过每天早晚定期的体育锻炼，个体的身体状况将会开始改善：失眠症将会消失，身体毒素的积累将得到清除，而也会慢慢改善饮食状况。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>8.现在，谈到饮食方面，如果有心灵饮食的话，或者一种对<i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>身体、精神和心灵</span></i>有益的全面的饮食，那么有必要遵循这样</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>一种</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>饮食习惯。</span><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>但是该个体身体中缺乏维生素，比如维生素B和C。维生素C可提供精神能量，<span class=GramE>这种精神能量存在于神经或神经丛组织中。</span>维生素B的作用像钙、硅、铁元素一样。如果食用含有这些营养元素的食物，那么会达到一种均衡, 但</span><i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>除非</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>个体进行身体锻炼，使<i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>这些元素</span></i>也处于运动状态，否则</span><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>它们会变成<span
+class=SpellE>糟粕</span></span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>，不考虑其他</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>其他</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>条件，运动可使他们发生效力。（旁白，符合多种情况或条件）。人身体中的维生素是与生物体各种活动相竞争、对抗的元素，可以被称为——很合适——人体或生物体内各种性质的杆菌。这是我们谈论的该个体出现的问题。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【凯西陈述了他关于维生素缺乏的观点，以及维生素对人体起作用的机理。维生素最好从食物中获取；然而，该解读指出个体可能会获取过量的维生素——尤其是个体不怎么进行身体活动的情况下——那么维生素就会变成身体系统的一种负担（糟粕）。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>9. 现在，当这些元素被摄入体内，如果</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>不</span></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>通过<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>系统活动</span></i>——无论身体或精神上的活动——使之发挥作用，</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>它们将成为</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>破坏性</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>组织，因为它们会</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>影响</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>血液、排泄器官或淋巴细胞中的<span class=SpellE>等离子体</span>，这是构成系统血液供给一部分的另一个名称。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【这是维生素过剩对身体造成损害的确切方式的具体描述。其影响在人体两个循环系统中尤为明显：血液系统和淋巴系统。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>10. 然后，结合饮食，确保进行身体和精神活动；需要<i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>坚持不懈</span></i>而<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>不要断断续续</span></i></span><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>——因为肉体、精神体和灵性体都“在恩典、知识和理解中成长”。【《彼得书》2 3:18】<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【这名年轻人被鼓励安排与其（精神和身体）运动水平一致的饮食。不是一蹴而就，而是始终坚持这样一个营养计划。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>11. 你所吃的食物，会按<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>你</span></i>的意愿<i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>发挥</span></i>其作用。现在人们通常会考虑为什么蔬菜、矿物质或化合物在不同条件下有不同的影响。这是<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>个人身体</span></i>的<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>意识</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>给某人一杯</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>清水</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>暗示他这会与盐一样发挥作用——会不会这样发挥作用？<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【心灵起着一个非常重要的作用，可以通过催眠展现出信念对身体反应的作用。换言之，一个人的信念很大程度上决定着食物将产生的影响。当一个人想象一餐对促进健康的潜在可能，可将可视化作为一种构造工具。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>12. 就像整个有机体一样，血管的每个细胞，每个<span class=GramE>血球</span>
+内部也像是一个</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>宇宙</span></i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>。如果你从事<i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>体力</span></i>劳动，则不要挑食。如果你是一名读心者或大学教授，则不要暴食。但要<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>坚持如一</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>，即使你身体内的</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>宇宙</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>已经<span class=SpellE>塑造成型</span>。每个人都依赖于另一个人的活动。一个头脑、内心中充满想见上帝这一愿望的人，将会在风中、阳光中、土地上、鲜花丛中、和人群中看到上帝的形象与活动；</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>体内宇宙的塑造也是这样，你是想</span><i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>仅仅</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>满足胃口还是想</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>更好地塑造身体、精神和灵魂？</span><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>何处或</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>何时</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>将显得不那么重要——但要始终明白这个身体希望达成的目标！<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【人体的每一个细胞内部就像是一个宇宙，因此我们应该按照宇宙运行的规律和法则来塑造我们的身体。这名年轻人被要求考虑他</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>为什么</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>要吃东西，被要求考虑吃的目的，而非仅仅满足口腹之欲。他被鼓励按照自己想要达成的目标塑造身体。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>13. 《旧约》中记载，当以色列人的孩子与异教徒的孩子站在一起【《但以理书》1：5-8】，他们都围着国王的餐桌吃饭，这加剧了身体对生理欲望的想象，因为酒、肉、香料放大了肉体的欲望。根据Danielwell的理解，这并不是在为<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>上帝</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>服务，于是他</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>每天</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>选择吃普通的食物，他认为这样身体和心灵会形成一条更完美的通道，以获得的启示；因为</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>上帝</span></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>的神力蕴含于地球上的</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>每一种</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>力量之中。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【《Daniel》第一章所载的故事完美阐明了凯西关于饮食、意识和人生目标的观点。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>14.很少有人，即使是先知【《列王记上》19：11-12】，能够在战争、流血、雷鸣、闪电、地震、以及各种自然灾害中看到上帝的身影——然而
+</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>都</span></i><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>可能会在内心的呼唤中感受到上帝的存在！</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>你</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>也一样，你的身体是上帝的神殿，</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>善待身体也是在以一种神圣、合意的方式向上帝提供合理的服务</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>合理的</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>服务【《罗马书》12：1】<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【继续以圣经章节举例，凯西提醒该年轻人</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>每个人</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>都有机会在自己身体内的神殿中见到上帝。因此，尊敬、敬重自己的身体十分有道理。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>过食</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>和酗酒同样罪过深重；</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>想得过多</span></i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>和做得过多一样也是一大罪过；</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>在你塑造的内心宇宙</span><span class=GramE><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>中</span></i>，</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>要像上帝一样作为。<span class=SpellE>让你的身体和心灵准备好迎接生命中出现的<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>每个</span></i>机遇。思考你所得到的。“</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>我们为什么</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>不能把他赶出去？</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>我们</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>只能</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>进行斋戒和祈祷。【路加福音11：33】当你在祈祷时，<span class=SpellE>你会</span>走进<span
+class=SpellE>内心</span>——那就是自我——并不是将自己与世界隔离，而是使自我走近上帝；</span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>内心私下祷告，你会获得公开的回报；因为圣经所言“人们点燃蜡烛，不是为了放在斗底下，而是放到山顶，以照亮所有人。”<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【在很多情况下我们会失去平衡，包括想得太多、做得太少。凯西建议，如果个体想成为一名帮助他人的人，应该向耶稣学习如何运用心灵力量，并了解虔诚祈祷的重要性。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>16. 因此，在生活中有必要进行身体上的修正，是这样——但要使你的心灵、身体、进出内心和每日的活动保持<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>一致</span></i>，那么你会得到回报——一种模范生活方式：</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>健康</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>的身体，</span><i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>开放</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>的思维，以及</span><i><span style='font-size:
+36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>充满爱</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>的精神！<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【如果这名年轻人始终如一地遵守所给出的建议，他最终将会收获均衡的生活。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>17.即使心脏血液粘稠，肝功能也很少失调，因为血液在肝脏中的流速是在心脏中的两倍。肝脏是进出心与肺血液的<span class=GramE>排毒器官</span>。因此在生活中、在学习中，要三思而后行——因为你只有<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>一个</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>舌头，但有两只眼睛。你只有</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>一个</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>心脏，但有七片肝叶，在你手中——运用你所拥有的，你的眼睛会<i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>提供</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>服务，你的舌头会指明正确的方向。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【身体的结构和功能对我们的生活方式具有象征性的意义。凯西列举一些有关身体的医学事实，并暗示、提醒我们在说话或行动前仔细观察并思考。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><span style="mso-spacerun:yes">&nbsp;</span></span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>18. 准备好问题。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【凯西仍然躺在沙发上处于催眠状态，在解读末尾，凯西通常会说：“准备好问题。”格特鲁德通常会读出问题；然而，如果被解读者在现场，有时候会仅仅需要在脑中</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>思考</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>问题而不用问出，凯西就会给出答案。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'>19. （问）<span
+class=GramE>什么</span> 情况导致了牙齿迅速龋坏，除了已经采取的措施，还可以采取哪些纠正措施？<o:p></o:p></span></p>
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'><span style='mso-tab-count:1'>&nbsp; </span>（答）答案已经给出了，已经进行过概述。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>应对身体系统供应作出改变，以满足那些必要条件，应该摄入更多的钙、硅和铁。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>除要满足那些必要条件，还应配合身体活动和食物摄入。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>如果身体活动与营养水平<i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>相</span></i>一致，营养元素应来自于水果、叶类蔬菜、以及含有水合碳酸镁、铁、硅、钙等矿物质的食物——明白了？</span><i><o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:18.0pt'><span style='font-size:36.0pt;
+font-family:"Arial","serif";mso-bidi-font-family:Arial'><span
+style='mso-tab-count:1'>&nbsp; </span>不要过多摄入含磷的食物，因为会造成</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>浪费</span></i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:36.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>不要吃太多牡蛎，也不要吃太多<span class=SpellE>海鲜</span>——在这方面</span><i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>达到</span></i><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'>均衡取决于身体的活动。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:36.0pt;tab-stops:18.0pt'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>已经概述了要开展的活动，只要按指示进行，就会在饮食方面</span><i><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>达到</span></i><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>均衡！<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【这是关于牙齿保健给出的具体建议。这说明了在许多解读中出现的情况：以开放式的话语呈现主题和原则，然后凯西会在问答阶段给出更详细的建议。】<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>20. 现在我们完成了解读。<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>【在每次解读结束时，凯西都会说这样一句话。而这时格特鲁德会暗示他，让他自己的身体力量恢复正常，然后“醒来”。几分钟后，凯西就会醒过来，但却不记得他在催眠状态中所说的任何话。】<o:p></o:p></span></i></p>
+<p class=MsoNormal><i><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></i></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>* * *<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>再看一遍这个解读，看看第二遍时是否又加深了理解。你会发现，埃德加•凯西的解读包含丰富的信息，具有较高的洞察力和启发性；几乎任何可以想象到的话题都如此。<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>若想了解更多信息，请联系：<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>埃德加•凯西研究和启示协会（A.R.E.）</span></span><span style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:Arial'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>第67大街215号<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>弗吉尼亚州弗吉尼亚海滩，邮编：23451-2061<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>电话：757-428-3588 800-333-4499<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>网址：<a href="http://www.EdgarCayce.org">EdgarCayce.org</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>电子邮件：<a href="mailto:are@edgarcayce.org">are@edgarcayce.org</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span class=GramE><span style='font-size:36.0pt;font-family:
+"Arial","serif";mso-bidi-font-family:Arial'>埃德加•凯西解读
+©1971，1993-2007埃德加•凯西基金会。</span></span><span
+style='font-size:36.0pt;font-family:"Arial","serif";mso-bidi-font-family:
+Arial'>版权所有。</span><span style='font-size:36.0pt'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:36.0pt;font-family:"Arial","serif";
+mso-bidi-font-family:Arial'>X-HTRR-BR</span><span style='font-size:36.0pt'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1"
+        >
+        <TextView 
+          style="@style/favoriteTextView"
+          android:id="@+id/favoriteTitle"
+          android:text="@string/favorites"
+        />
+        
+        <Button
+          android:id="@+id/rightButton"
+          android:layout_width="65dp"
+          android:layout_height="wrap_content"
+          android:layout_alignParentRight="true"
+          android:layout_marginRight="10dp"
+          android:layout_marginTop="3dp"
+          android:background="@drawable/edit_btn" 
+          android:visibility="invisible" 
+        />
+        
+        <ListView
+        android:id="@android:id/list"
+        style="@style/FillParentWidgetStyle"
+        android:layout_below="@+id/rightButton"
+        android:layout_marginTop="1dp"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/white"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none" 
+        >
+    </ListView>
+     </RelativeLayout>
+     
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThoughtForTheDay</string>
+    <string name="isTablet">0</string>
+    <string name="copyrightLine1">Copyright © 2015 Edgar Cayce\'s A.R.E</string>
+    <string name="copyrightLine2">All Rights Reserved</string>
+    <string name="studyReadings">學習解讀</string>
+    <string name="ecMaterials">埃德加·凱西 材料</string>
+    <string name="edgarCayce">埃德加·凱西</string>
+    <string name="aboutARE">關於 A.R.E</string>
+    <string name="favorites">收藏夹</string>
+    <string name="add">You have added a Thought to your favorites list.</string>
+    <string name="failed">Add a Thought to your favorites list failed.</string>
+    <string name="success">Success</string>
+    <string name="add_success">Add favorite successfully!</string>
+    <string name="add_failed">Failed to add. </string>
+
+    <!-- Tab Activity String -->
+    <string name="thoughts">思想</string>
+    <string name="favorite">收藏</string>
+    <string name="tips">溫馨提示</string>
+    <string name="edgar_cayce">埃德加·凱西</string>
+    <string name="info">信息</string>
+
+    <!-- Dialog String -->
+    <string name="open_website">Open website?</string>
+    <string name="cancel">Cancel</string>
+    <string name="open">Open</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+    <string name="loading">Loading</string>
+    <string name="wait">Please wait . . .</string>
+    <string name="no_network">Sorry! No Internet connection.</string>
+    <string name="unavailable_url">Sorry! The URL is unavailable.</string>
+    <string name="share">Share this App</string>
+    <string name="email">Share With Email</string>
+    <string name="facebook">Share With Facebook</string>
+    <string name="twitter">Share With Twitter</string>
+    <string name="error_internet">Communication timeout,please try again later!</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="post_wall_success">Post Success!</string>
+    <string name="email_subject">I found \'ThoughtForTheDay\' APP</string>
+
+    <!-- License checking status messages -->
+    <string name="check_license">Check license</string>
+    <string name="checking_license">Checking license...</string>
+    <string name="dont_allow">Don\'t allow the user access</string>
+    <string name="allow">Allow the user access</string>
+    <string name="application_error">Application error: %1$s</string>
+
+    <!-- Unlicensed dialog messages -->
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+    <string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+    <string name="unlicensed_dialog_retry_body">Unable to validate license. Check to see if a network connection is available.</string>
+    <string name="buy_button">Buy app</string>
+    <string name="retry_button">Retry</string>
+    <string name="quit_button">Exit</string>
+
+    <!-- Html link from assets -->
+    <string name="edgar_cayce_html_url">file:///android_asset/html/edgar_cayce_tcn.html</string>
+    <string name="about_are_html_url">file:///android_asset/html/about_are_tcn.html</string>
+    <string name="study_readings_html_url">file:///android_asset/html/study_readings_tcn.htm</string>
+    <string name="ec_materials_html_url">file:///android_asset/html/ec_materials_tcn.htm</string>
+    <string name="share_html_url">shareHtml_tcn.htm</string>
+
+    <!-- For facebook -->
+    <string name="app_id">443595622479044</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>
+
+</resources>

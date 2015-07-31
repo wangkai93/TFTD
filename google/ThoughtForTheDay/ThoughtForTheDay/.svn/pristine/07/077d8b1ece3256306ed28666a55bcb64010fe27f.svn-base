@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ceosoftcenters.thoughtfortheday"
+    android:versionCode="7"
+    android:versionName="1.2" >
+
+     <uses-sdk android:minSdkVersion="8"  android:targetSdkVersion="11" />
+
+    <application
+        android:icon="@drawable/icon" android:name=".application.TFTDApplication"
+        android:label="@string/app_name" android:theme="@style/AppTheme">
+        
+        <activity
+            android:label="@string/app_name"
+            android:name=".activity.MyTabActivity" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait">
+             <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+           
+        </activity>
+            
+        <activity android:name=".activity.ThoughtsActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".activity.FavoriteActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".activity.TipsActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".activity.EdgarCayceActivity" android:screenOrientation="portrait" ></activity>
+        <activity android:name=".activity.InfoActivity" android:screenOrientation="portrait"></activity>
+        
+        <!-- 
+        <service android:name="com.ceosoftcenters.thoughtfortheday.service.ListenScreenStateChangeService" />
+         -->
+    </application>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    
+    <!--  
+    <uses-permission android:name="android.permission.READ_LOGS" /> 
+    -->
+
+</manifest>

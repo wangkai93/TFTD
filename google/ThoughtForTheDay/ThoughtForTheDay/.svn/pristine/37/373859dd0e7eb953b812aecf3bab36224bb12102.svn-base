@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/edgar_cayce"
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/smalltitleStyle"
+            android:background="@drawable/edgar_cayce_title" />
+
+        <RelativeLayout
+            style="@style/smallquareLineStyle"
+            android:background="@drawable/edgar_cayce_line" >
+
+            <LinearLayout
+                android:id="@+id/actionButtons"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/switch_tab_btn_bg_nor"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/edgarButton"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/switch_tab_btn_bg_left_press"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="@string/edgarCayce"
+                    android:textColor="@color/white"
+                    android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/aboutAREButton"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:background="@null"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="@string/aboutARE"
+                    android:textColor="@color/switch_tab_blue_bg"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <WebView
+                android:id="@+id/edgar_cayce_web"
+                style="@style/webViewStyle" />
+
+            <WebView
+                android:id="@+id/about_are_web"
+                style="@style/webViewStyle"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

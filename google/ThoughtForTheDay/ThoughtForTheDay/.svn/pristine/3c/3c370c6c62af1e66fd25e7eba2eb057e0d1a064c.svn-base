@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/favorite_item_height"
+     >
+
+    <RelativeLayout 
+        android:id="@+id/btRL"
+    	android:layout_width="34dp"
+    	android:layout_height="@dimen/favorite_item_height"
+    	android:layout_centerVertical="true"
+    	android:layout_alignParentLeft="true"
+    	android:layout_marginLeft="2dp"
+    >
+    	 <Button
+    	    android:id="@+id/bt"
+	        android:layout_width="34dp"
+	        android:layout_height="34dp"
+	        android:layout_centerVertical="true"
+	        android:background="@drawable/bt1" />
+    </RelativeLayout>
+   
+
+    <LinearLayout
+        style="@style/WrapContentWidgetStyle"
+        android:layout_marginLeft="3dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/btRL" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/WrapContentWidgetStyle"
+            android:layout_marginRight="8dp"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/body"
+            style="@style/WrapContentWidgetStyle"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/favoriteId"
+            style="@style/WrapContentWidgetStyle"
+            android:text="bt1"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/del"
+        style="@style/WrapContentWidgetStyle"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="2dp"
+        android:layout_alignTop="@id/btRL"
+        android:background="@drawable/del_btn"
+        android:layout_centerVertical="true"
+        android:text="Delete"
+        android:textColor="#ffffff"
+        android:visibility="gone" />
+
+</RelativeLayout>

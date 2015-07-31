@@ -1,0 +1,1366 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:css="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=Title content=" ">
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="overview%20of%20EC%20Materials_files/filelist.xml">
+<title> </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bill</o:Author>
+  <o:LastAuthor>Robin</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>32</o:TotalTime>
+  <o:LastPrinted>2000-05-19T09:01:00Z</o:LastPrinted>
+  <o:Created>2011-09-27T02:14:00Z</o:Created>
+  <o:LastSaved>2011-09-27T02:14:00Z</o:LastSaved>
+  <o:Pages>15</o:Pages>
+  <o:Words>7896</o:Words>
+  <o:Characters>45011</o:Characters>
+  <o:Lines>375</o:Lines>
+  <o:Paragraphs>105</o:Paragraphs>
+  <o:CharactersWithSpaces>52802</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="overview%20of%20EC%20Materials_files/themedata.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:UnderlineTabInNumList/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Note Level 1"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Note Level 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 7"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 8"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 9"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="37" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true"
+   Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+  {font-family:Arial;
+  panose-1:2 11 6 4 2 2 2 2 2 4;
+  mso-font-charset:0;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+  {font-family:"Arial";
+  panose-1:2 7 3 9 2 2 5 2 4 4;
+  mso-font-charset:0;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+  {font-family:Wingdings;
+  panose-1:5 0 0 0 0 0 0 0 0 0;
+  mso-font-charset:2;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+  {font-family:Wingdings;
+  panose-1:5 0 0 0 0 0 0 0 0 0;
+  mso-font-charset:2;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+  {font-family:Zapfino;
+  panose-1:3 3 3 0 4 7 7 7 12 3;
+  mso-font-charset:0;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:-2147483545 1073741889 0 0 147 0;}
+@font-face
+  {font-family:Forte;
+  mso-font-alt:Zapfino;
+  mso-font-charset:0;
+  mso-generic-font-family:script;
+  mso-font-pitch:variable;
+  mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-parent:"";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  font-size:12.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";}
+h1
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-next:Normal;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  mso-pagination:widow-orphan;
+  page-break-after:avoid;
+  mso-outline-level:1;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:16.0pt;
+  mso-bidi-font-size:12.0pt;
+  font-family:Forte;
+  mso-font-kerning:0pt;
+  font-weight:normal;}
+h2
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-next:Normal;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  page-break-after:avoid;
+  mso-outline-level:2;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:12.0pt;
+  mso-bidi-font-size:10.0pt;
+  font-family:"Arial";
+  font-variant:small-caps;}
+h3
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-next:Normal;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:justify;
+  mso-pagination:widow-orphan;
+  page-break-after:avoid;
+  mso-outline-level:3;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:12.0pt;
+  mso-bidi-font-size:10.0pt;
+  font-family:"Arial";
+  text-transform:uppercase;}
+h4
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-next:Normal;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  mso-pagination:widow-orphan;
+  page-break-after:avoid;
+  mso-outline-level:4;
+  font-size:12.0pt;
+  font-family:Arial;
+  mso-bidi-font-family:"Arial";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+  {mso-style-noshow:yes;
+  mso-style-unhide:no;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  tab-stops:center 216.0pt right 432.0pt;
+  font-size:12.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+  {mso-style-noshow:yes;
+  mso-style-unhide:no;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  tab-stops:center 216.0pt right 432.0pt;
+  font-size:12.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+  {mso-style-noshow:yes;
+  mso-style-unhide:no;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:justify;
+  mso-pagination:widow-orphan;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:12.0pt;
+  mso-bidi-font-size:8.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+  {mso-style-noshow:yes;
+  mso-style-unhide:no;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:justify;
+  text-indent:36.0pt;
+  mso-pagination:widow-orphan;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:12.0pt;
+  mso-bidi-font-size:9.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+  {mso-style-noshow:yes;
+  mso-style-unhide:no;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:justify;
+  mso-pagination:widow-orphan;
+  mso-layout-grid-align:none;
+  text-autospace:none;
+  font-size:12.0pt;
+  mso-bidi-font-size:8.0pt;
+  font-family:"Arial";
+  mso-fareast-font-family:"Arial";
+  text-transform:uppercase;
+  font-weight:bold;}
+a:link, span.MsoHyperlink
+  {mso-style-priority:99;
+  color:blue;
+  text-decoration:underline;
+  text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+  {mso-style-noshow:yes;
+  mso-style-priority:99;
+  color:purple;
+  mso-themecolor:followedhyperlink;
+  text-decoration:underline;
+  text-underline:single;}
+span.GramE
+  {mso-style-name:"";
+  mso-gram-e:yes;}
+ /* Page Definitions */
+@page
+  {mso-footnote-separator:url(":overview of EC Materials_files:header.htm") fs;
+  mso-footnote-continuation-separator:url(":overview of EC Materials_files:header.htm") fcs;
+  mso-endnote-separator:url(":overview of EC Materials_files:header.htm") es;
+  mso-endnote-continuation-separator:url(":overview of EC Materials_files:header.htm") ecs;}
+@page WordSection1
+  {size:612.0pt 792.0pt;
+  margin:72.0pt 72.0pt 72.0pt 72.0pt;
+  mso-header-margin:25.2pt;
+  mso-footer-margin:25.2pt;
+  mso-header:url(":overview of EC Materials_files:header.htm") h1;
+  mso-paper-source:0;}
+div.WordSection1
+  {page:WordSection1;}
+ /* List Definitions */
+@list l0
+  {mso-list-id:-227;
+  mso-list-template-ids:-254511112;}
+@list l0:level1
+  {mso-level-number-format:bullet;
+  mso-level-text:"";
+  mso-level-tab-stop:0cm;
+  mso-level-number-position:left;
+  margin-left:0cm;
+  text-indent:0cm;
+  font-family:Symbol;}
+@list l0:level2
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0B7;
+  mso-level-tab-stop:36.0pt;
+  mso-level-number-position:left;
+  margin-left:54.0pt;
+  text-indent:-18.0pt;
+  font-family:Symbol;}
+@list l0:level3
+  {mso-level-number-format:bullet;
+  mso-level-text:o;
+  mso-level-tab-stop:72.0pt;
+  mso-level-number-position:left;
+  margin-left:90.0pt;
+  text-indent:-18.0pt;
+  font-family:"Arial";}
+@list l0:level4
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0A7;
+  mso-level-tab-stop:108.0pt;
+  mso-level-number-position:left;
+  margin-left:126.0pt;
+  text-indent:-18.0pt;
+  font-family:Wingdings;}
+@list l0:level5
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0FA;
+  mso-level-tab-stop:144.0pt;
+  mso-level-number-position:left;
+  margin-left:162.0pt;
+  text-indent:-18.0pt;
+  font-family:Wingdings;}
+@list l0:level6
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0B7;
+  mso-level-tab-stop:180.0pt;
+  mso-level-number-position:left;
+  margin-left:198.0pt;
+  text-indent:-18.0pt;
+  font-family:Symbol;}
+@list l0:level7
+  {mso-level-number-format:bullet;
+  mso-level-text:o;
+  mso-level-tab-stop:216.0pt;
+  mso-level-number-position:left;
+  margin-left:234.0pt;
+  text-indent:-18.0pt;
+  font-family:"Arial";}
+@list l0:level8
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0A7;
+  mso-level-tab-stop:252.0pt;
+  mso-level-number-position:left;
+  margin-left:270.0pt;
+  text-indent:-18.0pt;
+  font-family:Wingdings;}
+@list l0:level9
+  {mso-level-number-format:bullet;
+  mso-level-text:\F0FA;
+  mso-level-tab-stop:288.0pt;
+  mso-level-number-position:left;
+  margin-left:306.0pt;
+  text-indent:-18.0pt;
+  font-family:Wingdings;}
+ol
+  {margin-bottom:0cm;}
+ul
+  {margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:"Table Normal";
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:"";
+  mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin:0cm;
+  mso-para-margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  font-size:10.0pt;
+  font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p class=MsoHeader style='tab-stops:36.0pt;mso-layout-grid-align:none;
+text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<h1><span style='font-size:43.0pt;font-family:Arial'>埃德加·凱西概述材料<o:p></o:p></span></h1>
+
+<h4><span style='font-size:36.0pt;font-family:"Arial";mso-bidi-font-weight:normal'>作者：凱文·托蒂斯（Kevin J. Todeschi）<o:p></o:p></span></h4>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><i><span style='font-size:36.0pt'>（<span class=GramE>改編</span>自</span></i><span style='font-size:36.0pt'><i>凱文·托蒂斯<o:p></o:p></i>所著的《埃德加•凱西關於超感知》）。</span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoHeader style='text-align:justify;tab-stops:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<h2 style='text-align:justify'><span style='font-size:36.0pt;font-variant:normal !important;
+text-transform:uppercase'>埃德加·凱西：二十世紀的神秘家<o:p></o:p></span></h2>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>在成年後的四十三年之間，埃德加•凱西展現了其在某種自我催眠狀態下不可思議的能力；他會躺在沙發上、閉上眼、雙手疊放在腹部，然後進入催眠狀態。這種放松和冥想的狀態使得他能夠與所有時空取得聯系。在這種狀態下，他可以回答各式的問題，從“宇宙的秘密是什麽？”到“我怎樣才能去除贅疣？”他的回答被稱為“解讀”，其中包含即使在現在看來都十分有價值的見解，人們可以從保持均衡、改善人際關系到解決危及生命的疾病以及與上帝走得更近方面獲得實實在在的幫助。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>盡管凱西在近半個世紀前就去世了，但有十多篇傳記和超過300篇文章討論他的壹生及其解讀的方方面面，這些都證明了解讀材料的時效性。這些書籍包括壹個信息語料庫，這個語料庫如此有價值，以至於即使凱西本人都無法預測他的解讀對二十世紀後半葉的影響。六十年前，誰能想到“冥想”、“阿卡西記錄”、“心靈成長”、“光環”、“靈魂伴侶”、“整體論”會成為家喻戶曉的詞匯？<span class=GramE>更多關於他的壹生及解讀的細節在諸多經典作品得到探討，比如托馬斯‧蘇各儒所著的<i>《壹條大河》</i>（1942）<i> </i>、傑斯•斯特恩所著的<i>《沈睡中的先知》</i>（1967）<i> </i>、吉娜•瑟敏納拉所著的<i>《生命多世》</i>（1950）、以及西德尼•柯克帕特裏克所著的<i style='mso-bidi-font-style:normal'>《埃德加•凱西：壹名美國先知》</i>。</span>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>埃德加•凱西的大部分解讀專註於保健和疾病的治療方面。即使到今天，人們仍能從那些75年前給出的解讀中就健康方面獲得實際的幫助！然而，盡管這方面的解讀最為知名，但是入定狀態下的凱西似乎並沒有被限制在人的肉體方面。事實上，他的解讀討論了10000多個不同的主題。盡管主題的數量如此令人吃驚，但它們可以被歸納為更小範圍的話題。在編輯這些主題時，人們發現，其中大部分涉及並關註以下五大類內容：（1）與健康有關的信息；（2）哲學和輪回；（3）夢和夢的解析；（4）超感知和心靈現象；（5）心靈成長、冥想、祈禱。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>縱觀他的壹生，埃德加•凱西從未聲稱他有超能力，也從未認為自己是某種二十世紀的先知。他的解讀從未提出過關於需要接受的信仰方面的內容，而專註於這樣壹個事實：每個人應在自己的壹生中測試已有的生活準則。盡管凱西本人是壹名基督徒，並每年都從頭到尾讀壹遍聖經，但是他的解讀強調的是全世界信仰系統對比研究的重要性。解讀的基本原理為生命的合壹性、寬容眾人、同情和理解世界上的每種主要宗教。<o:p></o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h2 style='margin-bottom:13.0pt;text-align:justify'><span style='font-size:
+36.0pt'>關於健康的相關信息<o:p></o:p></span></h2>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>關於健康的解讀信息包括讓我們每人都可以保持健康的簡單建議。諸多此類建議表明，凱西對保健的理解超前於他所在的時代。這些基本的健康原則包括：保持均衡的飲食，進行定期鍛煉，發揮態度和情感在實現和保持身體健康方面的作用，展現放松和娛樂在均衡生活方式中的重要性，擁有保持身體內外潔凈的願望。凱西的這些建議都基於對保健和預防的考慮，而非僅僅簡單地針對具體病癥。他是西方推薦營養配餐的第壹人，其配餐主要包括蔬菜、魚、禽類，並建議每日攝入足夠的水，以保證體內清潔。凱西推薦這些飲食指南時，國內大多數人每天都食用大量的牛肉和澱粉質食品。然而，凱西對健康和保健的貢獻並不僅僅局限在合理膳食和定期鍛煉這兩個方面。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>數十年前，凱西就強調了態度和情感在保持身體健康方面的重要性。為支持這壹觀點，直至近年臨床醫學才發現積極的態度在加快治愈過程方面的作用。凱西和現代醫學都認為，幽默和歡樂在促進健康方面發揮著重要作用。同時還發現，某些消極態度或壓力可能會導致疾病。例如，凱西的解讀認為持續的憤怒（有意識或無意識）可能是發病因素的壹部分。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>即使反對凱西的批評家也認為，他關於的健康的解讀為我們如何保持健康提供了重要的見解。凱西的解讀對諸多健康問題提供了建議，比如痤瘡、飲食、痔瘡、長壽、肉贅，乃至關節炎、癌癥、癲癇、精神疾病和牛皮癬。二十世紀初至1945之間出現的幾乎每壹種情況，無論是分娩、骨折或維生素缺乏癥，都能在凱西的解讀檔案中找到。有趣的是，現代研究人員已經發現，他在幾十年前針對具體個人推薦的治療方法似乎在當今適用於壹個更廣泛的範圍，比如關於牛皮癬和硬皮病的治療方法。對於這兩種疾病，凱西給出的方案包括改變飲食結構、進行脊柱調整、及其他自然補救程序。近年來，類似的治療方案已經幫助數以百計的患者克服了這兩種疾病。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>解讀都是在1901年至1944年之間進行的，他的許多解讀都比較超前，預見了未來的保健、治療方案。除了在能量醫學、態度和情感的作用、祈禱和精神治療的作用方面的見解，凱西還經常看到我們現在治療“疾病”的方式。例如在1927年，他說：“總有壹天，醫學會發展到可以通過壹滴血來診斷所有疾病。”（283-2）當然，這在現在來說再平常不過了。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>凱西還提到了涉及身體、心理和精神協調的整體健康。任何健康療法都需要考慮個體的整體狀況，而不僅僅考慮疾病本身。基於這壹觀念，可以說現代的整體健康療法起源於埃德加•凱西的解讀。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>如果壹個人找他尋求健康方面的幫助，解讀流程會像其他方面的解讀壹樣。凱西會躺在沙發上進入自我催眠狀態，而他的秘書格拉迪斯•戴維斯會拿著速記本坐在壹旁，準備記下解讀的內容。解讀的引導人通常是凱西的妻子格特魯德，她會就需要獲得的信息提供恰當的暗示。對於健康解讀，她對這樣暗示凱西：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>“在妳前面的是【格特魯德會給出被解讀者的姓名】，他來自____【城市和住址】。妳將仔細、徹底地檢查他的身體，然後告訴我妳發現的問題，告訴我原因以及幫助、緩解這些問題的建議。妳將以正常的語速表達。妳將回答被問及的問題。”<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>然後，處於催眠狀態下的凱西通常會回應：“是的，他在這兒。”如果他之前對這名被解讀者做過解讀，他會加壹句：“我們之前給他做過解讀” ；即使上次對這名被解讀者的解讀是在三十年前進行的！凱西會準確地接著上次的解讀進行，就像是兩次解讀是緊挨著的。他以自己的語調進行解讀，表現得就像被解讀者位於同壹間房間，即使實際情況是：凱西通常在弗吉尼亞海灘，而被解讀者可能在幾千英裏之外。接著他會大體描述壹下被解讀者的情況，包括與問題相關的供血、神經系統、器官的情況。最後，他會概括具體的治療方案，並回答提出的問題。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>如果被解讀者在埃德加•凱西的辦公室中接受解讀，他或她甚至不需要說出問題，只需要在腦海中想壹下，凱西就能給出答案！<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>盡管大約有9000 次解讀涉及治療和整體療法的原理，但這些解讀的主要內容可以歸納為壹個縮略詞“CARE”：C指循環（circulation）、A指消化吸收（assimilation）、R指放松（relaxation）、E指消除（elimination）。每部分的重要性如下所示：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>如果沒有適當的<i>循環</i>，身體的自我修復能力會嚴重受損。通過運動、按摩和操縱療法，比如脊椎按摩療法和整骨療法，都會促進血液循環，從而加快自然治愈過程。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><i><span
+style='font-size:36.0pt'>消化吸收</span></i><span style='font-size:36.0pt'>是第二個關鍵詞。消化食物、吸收營養是身體的本能。同化的壹方面考慮到個人的飲食，凱西的解讀建議每天的飲食最好包括20％的酸性食物和80%的堿性食物，外加八杯水。但食物的烹飪方法和組合對人體的消化和吸收也有重要的影響。比如，谷物和柑橘類水果都是構成健康膳食的重要部分，但是解讀建議不得在同壹餐中同時食用，因為共食會影響消化。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:36.0pt'>第三個關鍵詞是<i>放松</i>，這不僅包括足夠的睡眠，還包括安排時間進行娛樂。凱西在的壹個解讀中說：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>……<span class=GramE>這些</span>【問題】是可以被稱為職業失調所造成的結果；沒有足夠的【時間】曬太陽，沒有足夠的體力活動。太多的<span class=GramE>腦力工作</span>，但要知道靈、智和體應和諧統壹。如果壹個人不能在生活中留有娛樂空間的、不能調諧生命的各個相部，他只會耍了自己，而某壹天......將會付出代價。”<span style="mso-spacerun:yes">&nbsp;</span>（3352-1）<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>最後壹個<b> </b>組成部分是<i>清楚</i>。對於人體來說，有必要清除體內積存的有害物質，清理內部器官，使其恢復功能。很久之前，人們拿規律性開玩笑，而凱西忠告人們說不要帶著垃圾過壹天。可以通過飯後運動（如散步）、蒸汽浴、大腸水療、正確的呼吸法和足夠的飲水來實現這壹目標。<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>這四個方面——循環、消化吸收、放松和消除——的協調可促進康復、保健和長壽。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>應該強調的是，凱西從未提供任何“神奇的”秘方，但其解讀卻可產生“奇跡”般的療效。他的解讀通常推薦整體的治療方案，涉及人體的整個系統。凱西並不是壹個靈異醫師，他也從未聲稱自己擁有特異功能。相反，他針對整體健康進行靈能咨詢，指導人們如何治愈自己。堅持他給出的方案需要花費很大的功夫。通常情況下，當有人針對壹種病癥尋求治療幫助，他往往這樣回答，“為什麽妳要治愈？” 換句話說，如果在治愈後，病人的生活方式又恢復原樣，那麽病人只是在尋找方法來減輕癥狀，而非真正想治愈疾病。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=554&amp;mn=9">《凱西非藥物治療健康手冊》</a></span></i><span
+style='font-size:36.0pt'>——哈羅德·賴利（Harold J. Reilly）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2104&amp;mn=9">《保持健康的關鍵》</a></span></i><span style='font-size:36.0pt'>——伊萊恩·赫魯斯卡（Elaine Hruska）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=4437&amp;mn=9">《埃德加·凱西論每日健康》</a></span></i><span style='font-size:36.0pt'>——卡羅爾·巴羅夫（Carol A. Baraff）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2107">《多種疾病的源頭：腸道滲漏癥》</a></span></i><span style='font-size:
+36.0pt'>——約翰·帕加諾（Dr. John Pagano）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-size:36.0pt;text-transform:uppercase'>哲學和輪回轉世<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>1901年，24歲的埃德加•凱西為診斷自己的喉部毛病，第壹次對自己進行解讀。但直到1923年，輪回轉世的概念才由對壹位俄亥俄州的印刷商人的解讀而被推出。有趣的是，這壹概念早在1911年就在另壹個解讀中提出過，但凱西周圍的人對輪回轉世根本沒有認識，因此十多年來都沒人意識到。最終，該概念在近2000個被稱為“生命解讀”的解讀中詳細論述，並成為凱西解讀的第二大主題。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>什麽是輪回轉世？就是壹種信仰：我們每個人通過壹系列的人世經歷，以達到精神成長和靈魂完善。凱西的解讀並<i>不</i>包括轉生（transmigration）這壹相關概念，而轉生指出人類可能轉生為動物。從凱西的觀點來看，人的靈魂只通過各種化身占有人類的軀體。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>從本質上來說，凱西對輪回轉世的解讀為過去專註於今生的觀點（在今生生活、成長並服務彼此）提供了壹種哲學上的設置。對他來說，個體前世是誰（甚至做過什麽）並沒那麽重要，最重要的是要專註於現世，專註於現在這個時代帶來的機遇和挑戰。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>從凱西解讀的角度來看，前世僅僅提供了壹種潛能和可能性的框架。個體在現世的選擇、行為和自由意誌將決定個體生活在這個時代的真實體驗。因此輪回轉世更像是幾乎無限的機會，而非宿命論。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>然而凱西還指出了該觀念不太積極的某些方面。他指出，有些解讀使人們對輪回背後的真正目的造成了誤解。事實上，沒有考慮自由選擇的解讀就會形成壹個他自稱為“業力妖怪（karmic bugaboo）” 的東西；這使壹種誤解，無法將報應（Karma）、自由意誌（Free Will）、宿命（Destiny）和恩典（Grace）關聯交織在壹起！在他的理解中，每個人都是自己人生旅程的積極參與者，而非有時候是被動的旁觀者。然而，即使到今天，輪回轉世的理論還通常被誤解為壹種基於“報應”、關於經歷和人際關系的宿命之旅。根據這壹理論，我們在前世所做的選擇預示了我們的未來，生命就是壹個簡單的不斷運動的旅程。這顯然不是凱西對報應的解讀。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>報應<i>（karma）</i>是壹個梵語詞匯，意為“作為、行為或行動”；也還會被解釋為“因果”。盡管解讀顯然同意這種說法，但或許其中壹個有趣而獨特的哲學貢獻在於：<i>報應可以簡明地定義成壹種記憶</i>。報應並不真的是壹種我們前世的錯誤和罪過欠下的“債務”，需要我們去償還；也不是壹組特定的情況，需要我們去經歷。報應簡單地說就是記憶，是壹個我們潛意識汲取和利用於現世生活的信息源！既擁有積極的元素也擁有消極的元素。比如，對某人的厭惡的很可能是造成對另壹人親密的“因”。可以肯定，這種潛意識記憶會對我們的思想、行為、選擇甚至看待問題的方式造成影響！但是自由意誌永遠掌握在我們的手中。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>根據凱西對輪回轉世的解釋，當壹個個體死亡，並不會立刻進入來世，因為靈魂被賦予壹個機會，盤點已經獲得的知識。然後，該靈魂會獲得壹個機會，決定接下來需要學習的內容，以成為壹個更加完整的個體。靈魂選擇再次出生在地球，通常出生在以前熟知的人群中。壹個靈魂可以選擇自己的性別、壽命，這就是凱西所說的“化身”（incarnation）。靈魂所做出的選擇會是完成壹生特定目的的最佳選擇。它選擇能夠幫助自己走向完整的最佳的環境（父母和家人、地點和時間段等）。選擇的目的在於在物質生活帶來的所有挑戰中完全展現自己的愛。然而，我們的經歷受根據自由意誌所作出的選擇的支配。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>擁有自由意誌，我們可以將生活的挑戰變成成長的踏腳石，或者我們可以將挑戰視為障礙和絆腳石。不論哪種方式，我們都會收獲自己播種的果實。我們不斷承受以前的行為和態度帶來的後果。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>關於轉世輪回的壹個有趣現象是，妳的才能和天分並沒有丟失。如果某人在壹世中獲得了某種才能，那麽在下壹世中還會擁有這種才能。例如，許多孩子天生就有比如音樂方面的天分，這是對其前世才能的有意識的回憶。如果壹個人在這壹世中成為了壹名優秀的英語教師，那麽他或她在前世可能是壹個劇作家，再前世可能是壹個歷史學家，而再再前世可能是壹個書吏。壹個人的才能會有壹定的延續性，因為這可以幫助其在特定的壹生中最好地完成目標。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>凱西解讀的另壹項重大哲學貢獻在於，提出了人和人之間並不存在真正的“報應”；相反，報應只存在於我們自身。然而，這種概念性的挑戰在於，我們似乎會向記憶中的報應妥協，或在與別人交往的過程中“遭遇自我”。正是這種與別人交往中形成的動態的遭遇自我時常讓我們察覺到挫折和挑戰，而非接受自己的責任。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>盡管事實是，我們的報應基本上是我們自己的，但是我們卻常常被某些特定的個人和團體所吸引，這些個人和團體是我們能夠在可能的環境和人際關系中遇見自我。他們反過來，也被我們所吸引，因為他們也有同樣有“報應”的記憶。有趣的是，這是每個人“遭遇自我”的方式；壹次壹個選擇；將從根本上決定我們經歷的壹生。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>這些轉世群體（karmic groups）通常會重建自己的家庭關系、工作關系、以及文化和社會關系，甚至是民族關系。凱西解讀認為，我們從不會無原無故遇上某個人，也不會沒理由初次就對某人產生情感聯系（無論正面的還是負面的）。這些關系都是持續的學習和體驗過程。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>在這種框架中，中心觀點是靈魂努力遭遇自我，經歷著之前選擇的結果。用聖經中的話說就是“妳播種什麽，就收獲什麽”，還通常可以理解為“同性相吸”的輪回觀點。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>從本質上講，這意味著我們會經歷我們以前對其他人做出的選擇的結果。我們的人生不是註定的或有壹種宿命，我們壹直都在<i>通過對人生狀況的選擇</i>控制自己的人生（以及認知）。最終，所有的經歷均是為了我們自身的成長，而這些經歷也都是我們自己制造的。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>在現實中，我們可能無法搞明白為什麽我們會陷入某個特殊狀態中，但“為什麽”似乎並不那麽重要；重要的是我們如何應付這種狀況。兩個人可能會遇到非常相似的狀況，比如丟工作，但他們的處理方式可能截然不同。壹個可能會花大量的時間和精力埋怨、生氣，而另壹個人則可能將其看成是壹個可以“全新開始”的機會，並開始做自己壹直期望做的事。盡管他們遇到的狀況壹樣，但每個人的應對方式卻不同。壹個人對所遇狀況的應對方式決定了其將要面臨的經歷。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>轉世輪回這壹概念不僅僅包含東方的思想，還包括世界各大宗教的教義。這壹概念幫助我們對其他人抱有憐憫之心。可以讓我們有目的地思量人生的方方面面。然而，其他人相信或懷疑重生的理論其實並不那麽重要。<span class=GramE>對於壹些人來說，這壹概念很有幫助；但對另壹些人來說，這壹概念可能會讓他們迷惑。</span>相信輪回轉世的理由並不在於我們可以想起前世，或吹噓自己前世可能是某個名人。智慧的人們知道，我們擁有過各種身份的化身。在凱西的壹次解讀中對轉世輪回的目的進行了歸納：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>“在學習過程中，要明白自己的方向……尋找自己生活過的地方，死後埋在祖母花園中的櫻桃樹下，並不能讓妳成為壹個好鄰居、好公民、好母親或好父親！但是，應知道因惡意的言語而讓自己為此而受苦，並在現在可以正直地改正過來，這才是值得的!”（5753-2）<span style="mso-spacerun:yes">&nbsp;</span>5753-2<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=1934">《生命多世》第二部分</a></span></i><span style='font-size:36.0pt'>——吉娜·瑟敏納拉（Gina Cerminara）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><i><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=30">《壹<span
+class=GramE>條</span>大河》</a></i>“哲學篇”——托馬斯·蘇各儒（Thomas Sugrue）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=298">《埃德加·凱西之阿卡西記錄》</a></span></i><span style='font-size:36.0pt'>——凱文·托蒂斯（Kevin J. Todeschi）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=101">《埃德加·凱西之心靈故事》</a></span></i><span style='font-size:36.0pt'>——丘奇（W.H. Church）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>夢與夢的解析<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>盡管我們很多人沒有有意識地去記住自己所做過的夢，但每個人都會做夢！二十世紀早期，當弗洛伊德（Sigmund Freud）和容格（Carl Jung）兩位心理學家論證夢對臨床診斷的重要性的時候，埃德加•凱西針對求助者的夢境向他們提供指導，解釋為什麽會做夢；他的方法是解析夢的最可行的方法之壹。凱西的解讀有上百個是關於夢和夢的解析的。或許我們從這些解讀中獲得的最重要的財富是：比起清醒狀態，我們在夢中（即潛意識狀態）更加了解自己，包括我們的身體、我們所處的環境、甚至我們的生活方式。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>在夢中，我們會開放心靈去接觸不同層次的潛意識。我們的潛意識是壹個倉庫，它不僅儲存著我們前世有意識的經歷，還儲存了那些很少讓我們意識覺知的內容。潛意識具有壹個非凡的功能：它可以找到解決問題的方法。它儲存了我們所有的願望、希望和以往經歷的記憶，同時還可幫助我們進行自我反省，並對具體問題給出實用指導。甚至還會讓我們有通靈體驗。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>夢可以診斷出我們身體疾病的病因，指出我們平時忽略的想法和情緒，而且通常建議我們去改善人際關系。在夢裏，我們可以從身體上、心智上和靈魂上體驗完整的自己。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>榮格，與埃德加•凱西同時代的瑞士精神病學家，用令人信服的證據論證了更深層次的潛意識。他的論證很有深度，容格認為潛意識來源於真正的靈性實相，而這壹點弗洛伊德沒有認識到。容格稱這個層次為“集體潛意識”。在這個層次，所有思維都可通過通用的符號進行交流；對世界上所有的人來說，形象似乎擁有共同的意義。例如，獅子或大型貓科動物的形象有壹個普遍或原型的意義，那就是力量和活力。鳥類的形象通常象征各種愛和關懷；而水通常象征心靈。壹位老人或祖父式的人物象征“高級自我”或我們內在的智慧。不同文化之間的神話或童話故事往往具有相似性，而這些相似之處都通過通用符號和主題表示。有時，我們的夢可能包含這些類型的符號。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>當然，在我們的夢中，並不是所有的符號和形象都代表普遍或原型意義。很多符號和形象，如果不是大多數的話，最好通過探尋做夢者與所夢事物的關系進行解析。比如，如果夢到壹支槍，對獵人來說是壹個意思，而對犯罪的受害者來說又會是另壹個意思。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>事實上，從沒有“壞夢”這壹說，因為所有的夢都有可能幫助做夢者。夢到災難性事件，可能僅僅想告誡我們改變自己的飲食習慣或生活態度，或者僅僅是對生活中各種情況的情緒釋放。如果我們開始對夢進行解析，那麽會對我們提供無價的指導。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>例如，有壹位求助者夢到了壹個穿著制服的無頭人，凱西解讀告訴他，夢的啟示是要他不要壹板壹眼地專註於自己的職責，不要對工作投入太多，而要花時間進行心靈探索。有個人夢到壹個瘋子，在大街上邊跑邊喊，造成了很大的麻煩；凱西解讀告訴他，這個夢建議他控制好自己的脾氣。壹位女士夢到她的壹位好友同她講話，她註意到她的好友戴著各種各樣且非常漂亮的假牙，其中壹些由純金所制。凱西解讀告訴她，金牙代表她所說的是精神真諦，但由於她沒有將她所說的運用在實際生活中，所以又是假的。另壹位女士夢到已去世的母親還幸福地活著。凱西告訴她說，她不是在騙自己，她的母親確實幸福地活著：“……因為沒有所謂的死亡，只是從物質層面轉換到靈性層面。”（136-33）<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>如果試圖解析壹場夢，壹個可能的辦法是從字面上去理解。例如，如果夢到自己吃沙拉，可能意味著讓我們改變飲食習慣，多食沙拉。夢到壹位很久未見的人，可能意味著不久就會與他不期而會。在其他情況下，夢境可能對現實生活來說更具有象征意義。如果夢到許多沒進過的房間，可能象征著自己有待挖掘的品質。如果夢到壹輛車，通常象征著自己的身體，並暗示需要改變或修正身體狀況。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>另壹方面，夢到出生和死亡則更有象征意義，因為它們可能意味著新的開始和舊的結束。話句話說，夢到“死亡”通常意味著我們自身品格中某壹方面的“死亡”。例如，壹位女士夢到參加她牧師的妻子的葬禮，這可能暗示她的精神層面被忽視或正在“安息”。而夢到懷孕或照看嬰兒（而實際上沒有），並不壹定是壹種預示。這樣的夢可能僅僅指新情況的出現或新想法的誕生。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>當夢給出指導或傳遞壹種判斷時，通常是對自己之前設定的價值觀或理想的壹種反應。大多數夢可以被看作是壹種比較（凱西用的詞是“相關性”)。在睡眠中，我們會對近期的行為與內心的價值觀進行比較。例如，出於健康考慮，壹位女士被忠告不得食用巧克力，但她仍然照吃不誤。她做了壹個夢，在夢中她非法越境進入墨西哥去買巧克力。顯然，她的夢告訴她做了她不應該做的事，而她知道這件事是“非法”的。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>科學研究表明，我們每個人都會做夢，但並不是每個人都能記住做過的夢。如果我們想要對夢進行解析，我們需要在床邊放壹個記事本，這樣我們可以記下醒來之後能記住的夢境；即使那僅僅是壹個感覺。如果我們睡眠充足，如果我們期望開始回憶自己的夢，如果我們試圖記下醒來之後腦海中的所有信息，我們應該能夠在較短時間內記住自己所做的夢。我們要像看待人生那樣看待特殊的夢，我們將開始洞悉單個符號對我們的意義——尤其如果壹個符號在近期的夢中反復出現。壹個符號對不同的人來說並不壹定意味著同樣的意義，因為每個人的夢各有不同。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>夢的解析可以簡單分為五個步驟，即使初學者都可以立即掌握。步驟如下：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>1. 記下每日所做的夢。<i>each
+day.<o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>2. 認識到對夢的<i>感覺</i>與夢的解析至少同等重要；此外，由於我們自身的多重性，夢通常具有多重意義。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>3.記住在大多數情況下，夢中的每個人物都代表妳自身的壹部分。觀察夢中人物的動作、情感、表情和對話，並對照日常生活中的自己。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>4. 觀察夢中重復出現的符號、性格和情緒，建立自己的“解夢詞典”，並標記這些符號對妳的重要性。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>5. 在解夢的過程中，首先要記住的是，即使妳無法立即理解夢的意義，它們都非常有幫助；其次，還需要記住<i>實踐、實踐、再實踐<o:p></o:p></i> ！</span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>從本質上講，夢的目的是基於我們日常的想法、情感和行為，使我們更加自覺地了解自己的生活。夢可以展示出我們的欲望，激勵並幫助我們感知身體的需要。它們可以提供更具創造性的生活洞察力，並協助我們基於意識層面已有的知識做出重大決定。例如，夢可以提供指導，幫助我們挽回人際關系，但只有盡力去挽回，才能實現。當我們專註思想，作出夢中呼籲的決定，那麽它們將通過使生活更專註而幫助我們。解夢的過程就像是在與壹個值得信賴的朋友談話，而他對我們了如指掌，就在那談論生活。大多數時候，這個朋友只是在聽，但是我們可以在自我中尋找答案。答案壹直在那，我們只是不知道如何尋找。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=261&amp;mn=9"><i>《夢：妳的魔鏡》</i></a>——埃爾希·西克裏斯特（Elsie Sechrist）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=585&amp;mn=9"><i>《夢的意象和符號》</i></a><i></i><span style='mso-bidi-font-style:italic'>——凱文·托蒂斯（Kevin J. Todeschi）著<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=84&amp;mn=9"><i>《如何解夢》</i></a><span style='mso-bidi-font-style:italic'>——馬克·瑟斯頓（Mark Thurston）著</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt'><i style='mso-bidi-font-style:
+normal'><span style='font-size:36.0pt'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span></i><span
+style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=3106&amp;mn=9"><i
+style='mso-bidi-font-style:normal'>《夢與幻覺》</i></a>——A.R.E.出版社/埃德加•凱西系列圖書<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>超感知和靈異現象<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>埃德加•凱西壹生所做的解讀中到處都是超感知的例證。他在自我催眠狀態下進行解讀的能力就可以被稱為超感知，因為他在那種狀態下可以<i>知道</i>他從未研究過的信息；他還可以不用眼睛<i>看到</i>人物、地點和事件。在自我催眠狀態，即使凱西位於弗吉尼亞海灘而病人遠在紐約，他都可以就任何問題給出答案，或描述病人的身體狀況及其周圍環境。由於有不同類型的超感知，研究人員將超感知這壹概念進壹步分解，以幫助理解。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>基本上，超感知指不利用五種感官而傳遞和接受信息的能力。用最簡單的話來說，它是壹種與他人溝通的方法，而這種方法不利用視覺、聽覺、味覺、嗅覺或觸覺這五種感官。根據凱西解讀，這種方法我們每個人都能使用和發展。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>超感知的分類其壹是<i>心靈感應</i>，也被稱為心靈與心靈的溝通。這是壹種通過閱讀另壹個人的思維而獲取信息的能力。例如，凱西在肯德基州的時候，給壹位在紐約的商人做解讀（740-1）。他說他看到那人在抽雪茄，聽到那人在吹口哨，並看到他見了另壹個地產商，然後讀了三封信。最後，凱西聽到這名商人給另壹個人打電話，並聽到了那個人的名字。所有這些信息之後均被證實。凱西可以運用超感知獲得遠在紐約的壹個人的親身經歷。在日常生活中，有時候我們會突然想起壹個很長時間沒聯系的人，然後電話鈴響起，果然是那人。這也是心靈感應的壹個例證。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>其二是<i>超視覺</i>，指能看到別人所無法看到的信息的能力。例如，妳洗完壹副牌，正面朝下扣住，然後能夠透過牌，看穿每張牌的花色（或至少看穿每張牌的顏色）。如果正確率比瞎猜的幾率大，就說明妳可能擁有壹些超視覺能力。妳不必做到100％準確，只需要在統計上（始終）比隨機幾率高就行。另壹方面，如果妳的朋友看牌，然後將註意力集中到那張牌上，由妳來猜，這會是壹個心靈感應的例子。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>讓我們看壹個凱西解讀的例子（2861-1）。病人當時位於俄亥俄州，而凱西位於弗吉尼亞海灘。在解讀過程中，凱西正確地給出了病人的體溫。現在結論就是，如果病人的主治醫師在凱西進行解讀前就已測得病人的體溫，那麽這就是壹個心靈感應的例子，因為凱西可以通過讀醫師的想法而得知體溫。但是如果醫師在解讀之後才測得病人的體溫，那麽這就是壹個超視覺的例子。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>其三是<i>預知</i>，這是壹種提前看到事件發生的能力。我們許多人都有過<i>既視感（dejavu）</i>的經歷，其中壹個例子就是：當妳正在和壹個朋友談話，突然發覺妳之前有過這麽壹次談話。妳甚至還知道妳的朋友接下來會說什麽。凱西解讀指出，這種現象的壹種解釋是，我們在夢中經常會預示未來發生的事。此類預示性的夢可能會被遺忘，只是在有些時候隱約覺得似曾相識。凱西的解讀中有無數這種事例。在給孩子所做的許多解讀中，凱西預見到他們成年後的情況，甚至能夠描繪他們的壹些潛在能力和職業選擇。還有其他壹些例子可表明這種預知能力。凱西在紐約為壹位女士進行解讀，即將結束時，凱西突然為另壹位在密蘇裏州的女士進行解讀，盡管沒有人要求進行這次解讀。而這位女士（5700-6）的請求在解讀建議寄出後才收到。凱西還提前六個月預知了股市崩盤（900-425），以及第二次世界大戰。他還預知到自己會在兩個兒子從海外回來之前死去。<o:p></o:p></span></p>
+
+<p class=MsoBodyText style='margin-bottom:13.0pt;text-indent:36.0pt'><span
+style='font-size:36.0pt'>盡管有些人將凱西稱作“先知”，但他自己從未這樣稱呼自己。事實上，在壹次解讀中（254-76），他說自己是壹條“謙卑、脆弱、微不足道的通道”。他很少預知世界局勢，因為此類預知在很大程度上受無數外界因素的影響。例如，當有人“預測”未來時，他們只是基於現在的情況下給出未來的壹種可能。如果按照目前情況發展下去，如果人們的態度、生活方式和世界的條件保持不變，那麽他們可以“看到”將來的結果。然而，凱西解讀明確指出，我們每個人都擁有自由意誌。如果足夠多的人用自己的自由意誌改變他們目前的現狀，那麽會對未來造成極大的影響。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>聖經中記載，約拿來到邪惡的尼尼微城，告知市民城市即將毀滅。然而，尼尼微城市民懺悔自己的惡行，用自由意誌改變自己的生活方式，最終城市得救了。那麽，相比心靈感應和超視覺，預知能力受更多因素的影響。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>其四是<i>後瞻</i>，這是壹種能夠看到以前發生的事件的能力。例如在生命解讀（涉及靈魂的解讀）中，凱西經常提到被解讀者過去發生的事情，甚至能夠追溯到出生之日。在壹次解讀（1650-1）中，他說：“1935到32年這段時期很煩擾，31-36-26很不平靜。”在另壹次生命解讀（1462-1）中，提供給凱西的是壹個女孩錯誤的出生日期和出生地，他回應：“我們在這裏沒有找到她。”（給他的信息為女孩1919年1月24日出生於俄亥俄州的克裏夫蘭）他停頓了壹下說：“好的，我找到記錄了（看起來像是錯誤的地點和日期）。”後來發現，女孩1月23日（早壹天）出生於紐約，而非克裏夫蘭。<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>“死海古卷”發現於1947年，而在11年前，凱西的解讀就描述了壹個猶太教教派的情況，而當時學者們多對此知之甚少。這個教派被稱為愛色尼派。凱西給出了大量有關他們工作和生活的信息。例如，凱西說在愛色尼派中，男人和女人在壹起工作、生活。而在解讀進行的時候，學者們認為愛色尼派是壹個僧侶團體，只有男人。然而，在1951年，也就是凱西過世6年多之後，考古學家死海古卷發現之處附近的庫姆蘭有了更多的考古發現，他們發現的證據表明在愛色尼派中男女共同生活。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>凱西解讀中有許多關於超感知的例子，但只有很少壹些指出我們人人都在壹定程度上有超能力，因為那是靈魂的本能。事實上，這壹觀點可能最好地定義了凱西的靈異解讀。因為“靈異即靈魂”，凱西的解讀表明，激發壹個人的靈異體驗並不困難。然而，追求靈異現象常常會使我們誤入歧途。解讀建議我們應該為了追求心靈成長、了解自我並服務他人進行靈異體驗，而不要以擁有為目而進行這種體驗。<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>人們往往將通靈體驗視為不尋常、與眾不同、特殊、詭異或令人恐懼的體驗。然而，在凱西解讀中，通靈信息與直覺或“預感”壹樣正常。此外，因為這種信息並不100％準確，所以我們可以像對待壹個值得信賴的朋友給出的建議那樣對待這種信息：可作為收集見解和作出決定的額外工具；對其信任程度不必超過對朋友（或感官）建議的信任程度；然而，信任程度也不得過小。總有壹天，人們會像利用其他感官（味覺、嗅覺、觸覺、聽覺、視覺）那樣自然地利用自己的直覺。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=630&amp;mn=9">《通靈兒童》</a></span></i><span style='font-size:36.0pt'>——佩吉·戴（Peggy Day）和蘇珊·蓋爾（Susan Gale）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2470&amp;mn=9">《埃德加·凱西關於宗教、靈性和通靈體驗》</a></span></i><span
+style='font-size:36.0pt'>——哈蒙·布羅（Harmon Bro）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=1931&amp;mn=9">《通靈感官》</a></span></i><span style='font-size:36.0pt'>——A.R.E.出版社/埃德加•凱西系列文章<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText2 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>心靈成長、冥想和祈禱<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>心靈成長、冥想和祈禱是凱西解讀的壹個重要話題。基於這個話題，在超過十壹年的時期內（1931年至1942年），埃德加•凱西對壹組人（研究小組# 1）進行了130 次解讀，這壹組人都學習屬靈定律。有趣的是，壹些成員在最初就對如何變得更加通靈十分感興趣。凱西回應說，應該更註重心靈成長，因為越了解心靈原則，會很自然地變得更加通靈。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>這壹組關於心靈成長的解讀對擁有不同宗教背景的人都有借鑒意義，使得他們通過合作、祈禱、信仰、冥想和愛更加了解自己。數千人研究了第壹個研究小組編制的研究材料。這些不同派系的討論組在世界各地的家中研究凱西關於心靈成長的解讀。（妳如果想要拜訪壹下妳周圍的小組，請聯系A.R.E.的尋求上帝部門）<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>從凱西的角度來看，我們本質上是靈魂體，只是現在碰巧出現在地球上。我們不簡單地是擁有靈魂的肉體，而是恰巧進入肉體的靈魂，這是壹種積累經驗的方式。【在《聖經》中，有壹點十分有趣：靈魂體（創世記1）的創造時間早於肉體（創世記2）。】既然我們生活在地球上的部分目標在於了解自身與上帝之間的真正關系，或許冥想是了解這種關系最重要的方式。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>埃德加•凱西早在1921年就開始推薦冥想，那時很多人甚至都不知道冥想是什麽。大多數人從二十世紀六七十年代才開始聽說冥想。起初，我們可能會認為冥想不尋常、甚至離奇；或者認為那只是東方宗教的實踐。然而，大量臨床研究證明，冥想最起碼可以對我們的健康產生積極的影響。通過冥想，人們可以減輕焦慮程度，並變得更加輕松。現在許多醫生建議病人將冥想作為降低血壓的壹個有效方法。<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>用最簡單的話來說，冥想就是使肉體和心靈平靜，進而集中註意力於內心而非外部世界的做法。冥想可促進三個層次的調和：壹是身體層面，我們開始變得放松；二是精神層面，我們忙碌的思維變得平靜；三是靈魂層面，我們重新變得活力無限，並能夠更親和、更有效地處理周圍的人和事。當我們每天花點時間平靜思緒、拋開顧慮，我們可以開始恢復自己精神本質的認識。壹方面，祈禱即為與上帝對話，但是冥想是聆聽我們內心壹直與神交流的部分。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>通過以下幾個簡單的步驟，任何人都可以進行冥想。即使是初學者也可以體驗幾分鐘有目的的靜默所帶來的效果。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>如果妳想嘗試冥想，第壹步，要先找壹個舒適位置。最好是坐在椅子上，直起腰、雙腳平放於地面，然後閉上雙眼。將雙手放在舒適的地方，放在膝蓋上或身體兩側都可。慢慢地做幾次深呼吸，然後開始放松。深吸壹口氣，使之在肺部停留壹段時間，然後慢慢呼出。運用妳的大腦尋找身體任何明顯的緊張部位。妳可以嘗試通過深呼吸、想象該部位變得放松或用手指輕輕按摩來緩解緊張。當妳完成這些之後，就可以準備進入到下壹個步驟。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>第二步，集中思緒於壹個單壹、平和、平靜的想法。不要想今天工作的事或接下來需要做的事，嘗試專註於“我很放松”或“我會平靜並感到安寧”這樣的想法。妳還可以使用有助於精神集中的聖經詩句或短語，比如“上帝即愛”。這些也被稱為肯定的想法。第壹種方法就是盡量清空妳的頭腦。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>實際冥想的第壹個“階段”包括思考上述想法。如果是上壹段引用的最後壹個例子，妳就要思考<i>“上帝即愛”</i>這幾個字。<i>思考</i>幾分鐘之後，妳應該就能進入到冥想的第二階段，那就是<i>感受</i>這幾個字背後的意義。例如，妳可以說出“上帝即愛”；然而，感受那些字可以獲得比字面意思更深刻的意義。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>第三步，在平靜中維持這種感受，這時<i>不需要</i>文字的幫助。每次思緒開始遊蕩時，輕輕將其拉回至詞句本身。也就是說，首先在心中想著幫助冥想的詞句，然後盡量集中註意力<i>感受</i>其背後的意義。當妳總是分心、無法集中註意力思考此類詞句時，不要氣餒。學會專註於單壹思緒需要花些時間。花三至十五分鐘靜靜默念妳選擇的詞句。當妳有壹定的經驗後，冥想的持續時間會變得更長。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>第四步，當妳覺得冥想快要結束時，向其他人傳遞好的想法或祈禱。如果妳壹直專註於平靜，那麽向妳關心之人傳遞這種平靜的感覺。只要妳每天練習，冥想將變得越來越簡單。妳還會註意到，妳在冥想時感受到的平靜將會延續壹整天。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>凱西的冥想與其他思想流派的冥想不同，其他流派認為冥想者的頭腦應該保持空白狀態。凱西解讀認為思緒是壹種建設性的力量，如果應用得當，將會達到完美協調。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>通過冥想，我們可以開始解決自己在體、智、靈方面的問題。當我們專註於積極的肯定信息，我們會發現自己的負面習慣會開始朝著正面的方向改變。在冥想中，通過放松身體、平靜思緒，我們可以暫時拋開日常瑣事，使自身與心靈層面達到調和。<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>從埃德加•凱西解讀的立場來看，我們每個人最重要的關系是自身與上帝之間的關系。我們了解這壹關系的最佳方式就是定期冥想。出於這個原因，凱西解讀表示，每壹個靈魂都應該學習冥想。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'>《尋求上帝》</span></i><span
+style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=47">上卷</a>
+和<a href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=73">下卷</a>——第壹研究小組編<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=3876&amp;mn=9">《從因果到恩典》</a></span></i><span style='font-size:36.0pt;mso-bidi-font-style:
+italic'>——約翰·範·奧肯（John Van Auken）著<i><o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=115&amp;mn=9">《妳的生活：為什麽如此，妳能做點什麽》</a></span></i><span
+style='font-size:36.0pt'>——布魯斯·麥克阿瑟（Bruce McArthur）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=82&amp;mn=9">《冥想和祈禱治療》</a></span></i><span style='font-size:36.0pt'>——梅雷迪思·安·普裏爾（Meredith Ann Puryear）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2515&amp;mn=9">《進入深層冥想》</a></span></i><span style='font-size:36.0pt'>——約翰·範·奧肯（John Van Auken）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>埃德加·凱西的遺產<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>凱西解讀最令人興奮的壹點是解讀內部的壹致性。如果將14000次解讀視為壹個整體，就是壹筆巨大的財富，幾乎對任何可以想出的話題提供了見解，包括醫學、歷史、生死、夢、心靈能力、態度和情感、育兒、飲食和人際關系等。在四十三年的解讀生涯中，凱西從未聽到自己在催眠狀態中所說的話，醒來後也不記得任何內容。為了了解自己解讀的性質，他花費大量時間鉆研助手記下的解讀材料。他的故事實際上可以說是壹個謙遜的人努力成長為世界上最有幫助的通靈者的過程。我們現在能看到的解讀信息是他帶給這個世界的禮物。<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>關於凱西的壹生，推薦閱讀：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=30&amp;mn=9">《壹條大河》</a>, </span></i><span style='font-size:36.0pt'>——托馬斯·蘇各儒（Thomas Sugrue）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=4389&amp;mn=9">《先知》</a></span></i><span style='font-size:36.0pt'>——哈蒙·哈策爾·布羅（Harmon Hartzell Bro）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=621&amp;mn=9">《清醒狀態：埃德加•凱西講演》</a></span></i><span style='font-size:36.0pt'>——理查德·彼德森（Richard Peterson）著<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>如欲了解A.R.E.全球活動的更多信息，請聯系：<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span class=GramE><span style='font-size:36.0pt'>埃德加•凱西研究和啟示協會（A.R.E.）</span></span><span
+style='font-size:36.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>第67大街215號<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>弗吉尼亞州弗吉尼亞海灘，郵編：23451-2061<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>電話：(757)428-3588 或 (800)333-4499<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>網址：<a href="http://www.EdgarCayce.org">www.EdgarCayce.org</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/info"
+    style="@style/FillWrapWidgetStyle"
+    android:layout_weight="1" >
+
+    <Button
+        android:id="@+id/shareButton"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/share_button_normal_tab" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/addfav_button_normal_tab" />
+
+    <RelativeLayout style="@style/FillParentWidgetStyle" >
+
+            <WebView
+                android:id="@+id/event"
+                style="@style/ThoughtswebViewTabMotorola"
+                android:gravity="center" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

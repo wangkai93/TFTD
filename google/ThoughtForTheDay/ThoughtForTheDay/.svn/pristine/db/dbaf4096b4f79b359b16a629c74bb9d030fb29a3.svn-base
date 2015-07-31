@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/tips"
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/titleStyle"
+            android:background="@drawable/howtouse_title" />
+
+        <RelativeLayout
+            style="@style/quareLineStyle"
+            android:background="@drawable/howtouse_line" >
+
+            <LinearLayout
+                android:id="@+id/actionButtons"
+                style="@style/actionButtonStyle" 
+                android:background="@drawable/switch_tab_btn_bg_nor">
+
+                <Button
+                    android:id="@+id/studyReadingsButton"
+                    style="@style/leftButtonTab"
+                    android:text="@string/studyReadings"/>
+
+                <Button
+                    android:id="@+id/ecMaterialsButton"
+                    style="@style/rightButtonTab"
+                    android:text="@string/ecMaterials"/>
+            </LinearLayout>
+
+            <WebView
+                android:id="@+id/study_readings_web"
+                style="@style/webViewStyle" />
+
+            <WebView
+                android:id="@+id/ec_materials_web"
+                style="@style/webViewStyle"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

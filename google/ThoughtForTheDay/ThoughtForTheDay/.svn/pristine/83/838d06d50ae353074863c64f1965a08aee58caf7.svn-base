@@ -1,0 +1,56 @@
+<html>
+    <head>
+    </head>
+    <body style="text-align:left; font-family: Arial">
+        <div id="content" style="width:100%%;margin:0 auto;font-size:2em;">
+            <div id="head-content" style="width:100%%">
+                <div style="width:100%%; text-align:center;font-size:2em;font-weight:bold;">About Edgar Cayce's A.R.E.</div>
+            </div>
+			<br/>
+            <div id="body-content" style="width:100%%">
+                <div>
+                    <div style="float:left;width:40%%;margin-right:1%%;margin-left:1%%">
+                        <img width="100%%"  src="1.gif" />
+                        <div style='text-align:center;width:100%%;font-size:1em;font-weight:bold;'>A.R.E. Historic Hospital Building and Stone Labyrinth</div>
+                    </div>
+                    <div style="text-align:left;width:100%%;">
+                        <span>Edgar Cayce (1877&ndash;1945) founded the nonprofit Association for Research and Enlightenment (A.R.E.) in 1931, to explore spirituality, holistic health, intuition, dream interpretation, psychic development, reincarnation, and ancient mysteries&mdash;all subjects that frequently came up in the more than 14,000 documented psychic readings given by Cayce.</span>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+                <br />
+                <div>
+                    <span style="text-align:left;width:100%%;">The mission of the A.R.E. is to help people transform their lives for the better, through research, education, and application of core concepts found in the Edgar Cayce readings and kindred materials that seek to manifest the love of God and all people and promote the purposefulness of life, the oneness of God, the spiritual nature of humankind, and the connection of body, mind, and spirit. With an international headquarters in Virginia Beach, Va., a regional headquarters in Houston, regional representatives throughout the U.S., Edgar Cayce Centers in 37 countries, and individual members in more than 70 countries, the A.R.E. community is a global network of individuals.</span>
+				</div>
+                <br />
+                <div>
+                    <div style="float:left;width:60%%;text-align:left">
+                        <div><p>A.R.E. <a href='http://www.edgarcayce.org/are/conferencesVaBeach.aspx'>conferences</a>, <a href='http://www.edgarcayce.org/are/aretours.aspx'>international tours</a>, <a href='http://www.edgarcayce.org/are/events.aspx?id=1257'>camps</a> for children and adults, <a href='http://www.edgarcayce.org/USA/regions/directory.aspx'>regional activities</a>, and <a href='http://www.edgarcayce.org/are/study-spiritual_Growth_groups.aspx?id=2834'>study groups</a> allow like-minded people to gather for educational and fellowship opportunities worldwide. </p><p>A.R.E. offers <a href='http://edgarcayce.org/membership/'>membership</a> benefits and services that include a quarterly body-mind-spirit member magazine, <span style="font-style: italic;">Venture Inward</span>; a member newsletter covering the topics of ancient mysteries, personal spirituality, and holistic health; and access to the entire set of readings in an exclusive member-only online database.</p></div>
+                    </div>
+                    <div style="float:left;width:38%%;margin-right:1%%;margin-left:1%%">
+                        <img width="100%%" src="2.gif" />
+                         <div style='text-align:center;width:100%%;font-size:1em;font-weight:bold;'>A.R.E. Visitor &amp; Conference Center</div>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+                <br />
+                <div>
+                    <span style="text-align:left;">A.R.E.'s publishing arm, <a href='http://arepress.com/'>A.R.E. Press</a>, began publishing books in 1931, and has since branched out into DVDs, CDs, ebooks, and digital media. In 2009, the organization launched a second imprint, 4th Dimension Press, in order to offer additional like-minded materials. Individuals can purchase A.R.E. Press/4th Dimension Press products in nearly any bookstore or online at <a href='http://www.arecatalog.com/'>ARECatalog.com</a>.</span>
+                </div>
+                <br />
+                <div>
+                    <div style="float:left;width:40%%;margin-right:1%%;margin-left:1%%">
+                        <img width="100%%"  src="3.gif" />
+                        <div style='text-align:center;width:100%%;font-size:1em;font-weight:bold;'>A.R.E. Meditation Garden</div>
+                    </div>
+                    <div style="text-align:left;width:100%%;">
+                        <div><p>Edgar Cayce's A.R.E. also maintains an affiliation with <a href='http://atlanticuniv.edu/'>Atlantic University</a>, which offers continuing education classes and a master's degree program in Transpersonal Studies; the <a href='http://www.edgarcayce.org/massageschool/'>Cayce/Reilly School of Massotherapy</a>, a leader in holistic education, wellness, and healthcare; and maintains an onsite <a href='http://edgarcayce.org/are/spa/index.aspx'>Health Center &amp; Spa</a> at its Virginia Beach headquarters, where many of the health readings remedies are offered along with massage therapy.<p><p>Learn more at <a href='http://www.edgarcayce.org/'>www.EdgarCayce.org</a>.</p></div>
+						
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+            <div id="footer-content"></div>
+        </div>
+    </body>
+</html>

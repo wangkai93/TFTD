@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/edgar_cayce"
+        style="@style/FillWrapWidgetStyle"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/titleStyle"
+            android:background="@drawable/edgar_cayce_title" />
+
+        <RelativeLayout
+            style="@style/quareLineStyle"
+            android:background="@drawable/edgar_cayce_line" >
+
+            <LinearLayout
+                android:id="@+id/actionButtons"
+                style="@style/actionButtonStyle" 
+                android:background="@drawable/switch_tab_btn_bg_nor">
+
+                <Button
+                    android:id="@+id/edgarButton"
+                    style="@style/leftButton"
+                    android:text="@string/edgarCayce" />
+
+                <Button
+                    android:id="@+id/aboutAREButton"
+                    style="@style/rightButton"
+                    android:text="@string/aboutARE" />
+            </LinearLayout>
+
+            <WebView
+                android:id="@+id/edgar_cayce_web"
+                style="@style/webViewStyle" />
+
+            <WebView
+                android:id="@+id/about_are_web"
+                style="@style/webViewStyle"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

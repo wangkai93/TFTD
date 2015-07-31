@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThoughtForTheDay</string>
+    <string name="isTablet">0</string>
+    <string name="copyrightLine1">版权  © 2015 Edgar Cayce\'s A.R.E</string>
+    <string name="copyrightLine2">版权所有</string>
+    <string name="studyReadings">学习解读</string>
+    <string name="ecMaterials">埃德加·凯西 材料</string>
+    <string name="edgarCayce">埃德加·凯西</string>
+    <string name="aboutARE">关于 A.R.E</string>
+    <string name="favorites">收藏夹</string>
+    <string name="add">你添加了一个思想到收藏夹</string>
+    <string name="failed">添加到收藏夹失败</string>
+    <string name="success">成功</string>
+    <string name="add_success">收藏成功!</string>
+    <string name="add_failed">添加失败。 </string>
+
+    <!-- Tab Activity String -->
+    <string name="thoughts">思想</string>
+    <string name="favorite">收藏</string>
+    <string name="tips">温馨提示</string>
+    <string name="edgar_cayce">埃德加·凯西</string>
+    <string name="info">信息</string>
+
+    <!-- Dialog String -->
+    <string name="open_website">打开网站?</string>
+    <string name="cancel">取消</string>
+    <string name="open">打开</string>
+    <string name="str_yes">是</string>
+    <string name="str_no">否</string>
+    <string name="loading">正在加载</string>
+    <string name="wait">请稍等 . . .</string>
+    <string name="no_network">没有网络。</string>
+    <string name="unavailable_url">URL 不可用。</string>
+    <string name="share">分享这个应用</string>
+    <string name="email">邮件分享</string>
+    <string name="facebook">Facebook分享</string>
+    <string name="twitter">Twitter分享</string>
+    <string name="error_internet">连接超时，请稍后再试！</string>
+    <string name="no_internet">没有网络</string>
+    <string name="post_wall_success">发送成功!</string>
+    <string name="email_subject">我发现 \'ThoughtForTheDay\' 应用</string>
+
+    <!-- License checking status messages -->
+    <string name="check_license">检查证书</string>
+    <string name="checking_license">检查证书...</string>
+    <string name="dont_allow">禁止访问</string>
+    <string name="allow">允许访问</string>
+    <string name="application_error">应用出错: %1$s</string>
+
+    <!-- Unlicensed dialog messages -->
+    <string name="unlicensed_dialog_title">应用没有通过许可</string>
+    <string name="unlicensed_dialog_body">此应用没有通过许可. 请在安卓应用商店购买.</string>
+    <string name="unlicensed_dialog_retry_body">无法认证.检查网络是否可用.</string>
+    <string name="buy_button">购买</string>
+    <string name="retry_button">重试</string>
+    <string name="quit_button">退出</string>
+
+    <!-- Html link from assets -->
+    <string name="edgar_cayce_html_url">file:///android_asset/html/edgar_cayce_scn.html</string>
+    <string name="about_are_html_url">file:///android_asset/html/about_are_scn.html</string>
+    <string name="study_readings_html_url">file:///android_asset/html/study_readings_scn.htm</string>
+    <string name="ec_materials_html_url">file:///android_asset/html/ec_materials_scn.htm</string>
+    <string name="share_html_url">shareHtml_scn.htm</string>
+
+    <!-- For facebook -->
+    <string name="app_id">443595622479044</string>
+    <string name="cancelled">取消</string>
+    <string name="permission_not_granted">没有权限，无法进行此操作。</string>
+    <string name="ok">确定</string>
+
+    <!-- last week link -->
+    <string name="last_week_url">http://54.215.10.171/TFTD/ws/lastWeek?language=CN</string>
+    <string name="db_file_name">db/TFTD_DB.sqlite_zh_rcn.db</string>
+    <string name="region_flag">cn</string>
+
+    <!-- share -->
+    <string name="share_with_email">邮件分享</string>
+    <string name="share_with_facebook">Facebook分享</string>
+    <string name="share_with_twitter">Twitter分享</string>
+    <string name="share_this_app">分享这个应用</string>
+    <string name="sharing">正在分享&#8230;</string>
+    <string name="please_wait">请稍等&#8230;</string>
+    <string name="need_to_configure_email">请先设置邮箱&#8230;</string>
+    <string name="waiting_authorization">等待认证&#8230;</string>
+    <string name="enter_status">请输入内容</string>
+    <string name="tweet_successfully">分享成功</string>
+    <string name="make_sure_did_not_share_recently">分享失败,请确认最近没有分享过此信息.</string>
+    <string name="want_to_delete">你要删除 \'%s\'吗？</string>
+    <string name="not_support_calls">此设备不支持打电话。</string>
+    <string name="call_num">你想打给\'%s\'吗?</string>
+    
+</resources>

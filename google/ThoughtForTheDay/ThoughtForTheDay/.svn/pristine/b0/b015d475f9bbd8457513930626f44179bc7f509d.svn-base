@@ -1,0 +1,2021 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:css="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=Title content=" ">
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=macintosh">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="overview%20of%20EC%20Materials_files/filelist.xml">
+<title> </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bill</o:Author>
+  <o:LastAuthor>Robin</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>32</o:TotalTime>
+  <o:LastPrinted>2000-05-19T09:01:00Z</o:LastPrinted>
+  <o:Created>2011-09-27T02:14:00Z</o:Created>
+  <o:LastSaved>2011-09-27T02:14:00Z</o:LastSaved>
+  <o:Pages>15</o:Pages>
+  <o:Words>7896</o:Words>
+  <o:Characters>45011</o:Characters>
+  <o:Lines>375</o:Lines>
+  <o:Paragraphs>105</o:Paragraphs>
+  <o:CharactersWithSpaces>52802</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="overview%20of%20EC%20Materials_files/themedata.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:UnderlineTabInNumList/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Note Level 1"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Note Level 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 7"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 8"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Note Level 9"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="37" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true"
+   Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Arial;
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+	{font-family:"Arial";
+	panose-1:2 7 3 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Zapfino;
+	panose-1:3 3 3 0 4 7 7 7 12 3;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483545 1073741889 0 0 147 0;}
+@font-face
+	{font-family:Forte;
+	mso-font-alt:Zapfino;
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";}
+h1
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:16.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Forte;
+	mso-font-kerning:0pt;
+	font-weight:normal;}
+h2
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial";
+	font-variant:small-caps;}
+h3
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial";
+	text-transform:uppercase;}
+h4
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-bidi-font-family:"Arial";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 216.0pt right 432.0pt;
+	font-size:12.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 216.0pt right 432.0pt;
+	font-size:12.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:36.0pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Arial";
+	mso-fareast-font-family:"Arial";
+	text-transform:uppercase;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+ /* Page Definitions */
+@page
+	{mso-footnote-separator:url(":overview of EC Materials_files:header.htm") fs;
+	mso-footnote-continuation-separator:url(":overview of EC Materials_files:header.htm") fcs;
+	mso-endnote-separator:url(":overview of EC Materials_files:header.htm") es;
+	mso-endnote-continuation-separator:url(":overview of EC Materials_files:header.htm") ecs;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:25.2pt;
+	mso-footer-margin:25.2pt;
+	mso-header:url(":overview of EC Materials_files:header.htm") h1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:-227;
+	mso-list-template-ids:-254511112;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	margin-left:162.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-18.0pt;
+	font-family:"Arial";}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FA;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	margin-left:306.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p class=MsoHeader style='tab-stops:36.0pt;mso-layout-grid-align:none;
+text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<h1><span style='font-size:43.0pt;font-family:Arial'>An Overview of the Edgar
+Cayce Material<o:p></o:p></span></h1>
+
+<h4><span style='font-size:36.0pt;font-family:"Arial";mso-bidi-font-weight:
+normal'>By Kevin J. Todeschi<o:p></o:p></span></h4>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><i><span style='font-size:36.0pt'>(<span class=GramE>adapted</span>
+from </span></i><span style='font-size:36.0pt'>Edgar Cayce’s ESP<i> by Kevin J.
+Todeschi)<o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoHeader style='text-align:justify;tab-stops:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+<h2 style='text-align:justify'><span style='font-size:36.0pt;font-variant:normal !important;
+text-transform:uppercase'>Edgar Cayce: Twentieth Century Mystic<o:p></o:p></span></h2>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>For forty-three years of his adult life, Edgar Cayce demonstrated the
+uncanny ability to put himself into some kind of self-induced sleep state by
+lying down on a couch, closing his eyes, and folding his hands over his
+stomach. This state of relaxation and meditation enabled him to place his mind
+in contact with all time and space. From this state he could respond to
+questions as diverse as, “What are the secrets of the universe?” to “How can I
+remove a wart?” His responses to these questions came to be called “readings”
+and contain insights so valuable that even to this day individuals have found
+practical help for everything from maintaining a well-balanced diet and
+improving human relationships to overcoming life-threatening illnesses and
+experiencing a closer walk with God.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Though Cayce died nearly half a century ago, the timeliness of the
+material in the readings is evidenced by approximately one dozen biographies
+and more than 300 titles that discuss various aspects of this man’s life and
+work. These books contain a corpus of information so valuable that even Edgar
+Cayce himself might have hesitated to predict their impact on the latter part
+of the twentieth century. Sixty years ago who could have known that terms such
+as “meditation,” “akashic records,” “spiritual growth,” “auras,” “soul mates,”
+and “holism” would become household words to hundreds of thousands? <span
+class=GramE>Further details about his life and work are explored in such
+classic works as <i>There Is a River </i>(1942)<i> </i>by Thomas Sugrue, <i>The
+Sleeping Prophet </i>(1967)<i> </i>by Jess Stearn, <i>Many Mansions </i>(1950)
+by Gina Cerminara, and <i style='mso-bidi-font-style:normal'>Edgar Cayce: An
+American Prophet </i>by Sidney Kirkpatrick</span>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The majority of Edgar Cayce’s readings deal with health maintenance and
+the treatment of illness. Even to this day individuals have found physical help
+from information given as long as 75 years ago! Yet although best known for
+this material, the sleeping Cayce did not seem to be limited to concerns about
+the physical body. In fact, in their entirety the readings discuss an
+astonishing number of 10,000 different subjects. Even this vast array of
+subject matter, however, can be narrowed down into a much smaller range of
+topics. When compiled together, the majority contain and deal with the
+following five categories: (1) Health-Related Information; (2) Philosophy and
+Reincarnation; (3) Dreams and Dream Interpretation; (4) ESP and Psychic Phenomena;
+and (5) Spiritual Growth, Meditation, and Prayer.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Throughout his life, Edgar Cayce claimed no special abilities nor did
+he ever consider himself to be some kind of twentieth-century prophet. The
+readings never offered a set of beliefs that had to be embraced, but instead
+focused on the fact that each person should test in his or her own life the
+principles presented. Though Cayce himself was a Christian and read the Bible
+from cover to cover every year of his life, his work was one that stressed the
+importance of comparative study among belief systems all over the world. The
+underlying principle of the readings is the oneness of all life, tolerance for
+all people, and a compassion and understanding for every major religion in the
+world.<o:p></o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h2 style='margin-bottom:13.0pt;text-align:justify'><span style='font-size:
+36.0pt'>THE READINGS’ APPROACH TO HEALTH-RELATED INFORMATION<o:p></o:p></span></h2>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The information from the readings on health includes simple suggestions
+that each of us can do to stay well. The nature of many of these
+recommendations indicates that Cayce’s understanding of health care was really
+ahead of its time. These basic health principles include such items as:
+maintaining a well-balanced diet, the need for regular exercise, the role of
+attitudes and emotions in achieving and maintaining good health, the importance
+of relaxation and recreation as part of a balanced life style, and the
+desirability of keeping our physical bodies cleansed &#8211; both on the inside
+and on the outside. Cayce’s approach to staying well had its roots in health
+maintenance and preventive medicine rather than simply the treatment of
+illnesses as they arose. He was one of the first individuals in the Western
+Hemisphere to recommend a nutritious diet consisting mainly of vegetables,
+fish, and fowl, plus sufficient water each day to promote internal cleansing.
+Cayce recommended these guidelines and others while much of the country had a
+diet consisting of great quantities of red meat and starches. Yet Cayce’s
+contribution to health and physical <span class=GramE>well-being</span> was not
+limited simply to proper diet and regular exercise.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Decades ago, he emphasized the importance that attitudes and emotions
+play in physical <span class=GramE>well-being</span>. In support of this idea,
+only relatively recently has clinical medicine discovered how positive
+attitudes enhance the healing process. Both Cayce and modern medicine agree
+that humor and joy play key roles in facilitating wellness. It’s also been
+found that certain kinds of negative attitudes or stresses can lead to illness.
+For example, Cayce’s readings suggest that persistent anger-conscious or
+unconscious-may play a part in the onset of disease.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Even critics of other
+segments of Cayce’s work agree that the information on health offers important
+insights into how each of us can stay well. The readings make recommendations
+for a variety of health concerns-from acne, diet, hemorrhoids, longevity, and
+warts to arthritis, cancer, epilepsy, mental illness, and psoriasis. Nearly
+every condition that existed between the turn of the century and 1945 &#8211;
+whether it was childbirth, fractures, or a vitamin deficiency &#8211; is
+represented in the files of the Cayce material. Interestingly enough,
+modern-day researchers have found that many of the recommended treatments-given
+decades ago by the sleeping Cayce to specific individuals-seem to be applicable
+today on a much wider scale. The information on psoriasis and scleroderma are
+two of the most notable examples. For both of these diseases, the Cayce regimen
+involves specific dietary changes, particular spinal adjustments, and other
+natural remedy procedures. In recent years following a similar program has
+helped hundreds of people with these two ailments.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The readings were given between 1901 and 1944 and many were ahead of
+their time in foreseeing future approaches to health care. In addition to
+insights into energy medicine, the role of attitudes and emotions, and the
+effects of prayer and spiritual healing, Cayce often saw advances in the way we
+treat “dis- ease.” For example, in 1927 he stated that, “The day may yet arrive
+when one may take a drop of blood and diagnose the condition of any physical
+body,” (283-2) and certainly today this is commonplace.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Cayce also saw total health as involving coordination among the
+physical, mental, and spiritual components of life. Any complete approach to
+health needed to consider an individual’s entire being rather than simply the
+illness. Because of this concept it has been said that the beginnings of
+present-day holistic health started from the readings of Edgar Cayce.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>For a person asking for physical help the reading was given much like
+the others. Cayce would put himself to sleep on his couch while his secretary,
+Gladys Davis, sat nearby with her steno pad and prepared to write down
+everything that was said. The one conducting the reading, usually Cayce’s wife,
+Gertrude, would give him the proper suggestion for obtaining the information
+that was needed. For physical readings her suggestion to the sleeping Cayce
+went something like this:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>“You will have before
+you the body of [Gertrude would then say the person’s name], who is located at
+_____________ [the city and address]. You will go over the body carefully,
+examine it thoroughly, and tell me the conditions you find<b> </b>at the
+present time; giving the cause of the existing conditions, also the suggestions
+for the help and relief for this body. You will speak distinctly at a normal
+rate of speech. You will answer the questions that may be asked.”<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>Then, while he was sleeping, Cayce would generally respond with, “Yes,
+we have the body here.” If he had ever given a prior reading for the person, he
+would add, “This we have had before” &#8211; even if the individual’s last
+reading had been thirty years earlier! Cayce would pick up right where he had
+left off, as if no time had passed. He spoke in his own voice and referred to
+the person as if the individual were in the same room, even though Cayce was
+usually in Virginia Beach and the patient could be a thousand or more miles
+away. He would then give a general description of the person’s condition,
+including information about the blood supply, the nervous system, and the
+organs involved in the difficulty. Finally, he would outline detailed methods
+to bring about relief and respond to questions as they were asked.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>If the person getting the reading was in the room with Edgar Cayce, it
+was found that he or she only needed to <i>think </i>of the question and Cayce
+could answer it without it even being asked!<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Although approximately 9,000 readings deal with the principles of
+healing and holism, the major components of the readings’ approach to wellness
+can be incorporated into the acronym “CARE”: circulation, assimilation,
+relaxation, and elimination. The importance of each of these components is as
+follows:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Without proper <i>circulation, </i>the body’s ability to heal itself is
+severely impaired. Facilitating the blood circulation-through exercise,
+massage, and manipulative therapies, such as chiropractic and osteopathic
+adjustments, bolsters the natural healing process.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><i><span
+style='font-size:36.0pt'>Assimilation </span></i><span style='font-size:36.0pt'>is
+the second key word. It is the body’s ability to digest and distribute food.
+One aspect of assimilation takes into account an individual’s diet-which the
+readings suggest should consist of 20% acid-producing to 80% alkaline-producing
+foods, as well as eight glasses of water daily. But assimilation is also
+influenced by the methods in which our foods are prepared and the ways in which
+we combine them. For example, although both grain cereals and citrus fruits are
+to be included in a healthful diet the readings suggest that they are never to
+be eaten during the same meal because of their effect on the body’s digestion.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The third key word is <i>relaxation, </i>which includes not only
+getting enough sleep but also setting time aside for the purpose of recreation.
+Cayce said to one person:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>“…<span class=GramE>these</span>
+[conditions] arose as a result of what might be called occupational disturbances;
+not enough [time] in the sun, not enough of hard work. Plenty of <span
+class=GramE>brain work</span>, but the body is supposed to coordinate the
+spiritual, mental and physical. He who does not give recreation a place in his
+life, and the proper tone to each phase-well, he just fools self and will some
+day ... be paying the price.”<span style="mso-spacerun:yes">&nbsp;
+</span>3352-1<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The final<b> </b>component is <i>elimination. </i>Proper eliminations
+are necessary for the body to rid itself of toxins, cleanse the internal
+organs, and function normally. Long before people were joking about their
+regularity, Cayce advised individuals not to let a day pass without having
+thrown off their waste products. Ways to do this would be with such practices
+as proper diet exercises (such as walking), sweat baths, colonics, correct
+breathing, and plenty of water.<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>These four items &#8211; circulation, assimilation, relaxation, and
+elimination &#8211; working together in cooperation can promote healing,
+wellness, and longevity.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>It should be emphasized that Edgar Cayce never provided “magic”
+formulas or cures. While it is true that miracles of healing can happen, the
+readings usually recommended an overall regimen of therapies involving the
+whole system. Cayce was not a psychic healer; he claimed no special power.
+Instead, he gave psychic counseling for total health, instructing people in
+what they could do best to bring about their own healing. Following the regimen
+took a lot of effort. Often, when someone requested medical assistance for a
+condition, Cayce would respond with, “Why do you want to get well?” In other
+words, if after health improvement the patient would simply return to the same
+lifestyle that had led to the sickness in the first place, then the person was
+simply looking for ways to alleviate symptoms rather than getting to the real
+heart of his or her illness.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=554&amp;mn=9">The
+Edgar Cayce Handbook for Health Through Drugless Therapy</a>, </span></i><span
+style='font-size:36.0pt'>by Harold J. Reilly<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2104&amp;mn=9">Your
+Key to Good Health</a></span></i><span style='font-size:36.0pt'>, by Elaine
+Hruska<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=4437&amp;mn=9">Edgar
+Cayce’s Everyday Health</a></span></i><span style='font-size:36.0pt'>, by Carol
+A. Baraff<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2107">One Cause,
+Many Ailments: The Leaky Gut Syndrome</a></span></i><span style='font-size:
+36.0pt'>, by Dr. John Pagano<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-size:36.0pt;text-transform:uppercase'>The
+READINGS’ APPROACH TO PHILOSOPHY AND REINCARNATION<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In 1901, at the age of twenty-four, Edgar Cayce gave one of his first<b>
+</b>readings on himself, diagnosing a health condition. But it wouldn’t be
+until 1923 that the subject of reincarnation would be explored in a reading
+given to a printer from Ohio. Interestingly enough, the concept was mentioned
+in a prior reading given as early as 1911, but no one among Cayce’s associates
+was familiar with the idea and the reference wasn’t recognized as such for
+decades. Eventually the subject was examined in extensive detail in nearly
+2,000 psychic readings, called “Life Readings,” and would become the second
+major topic examined by the sleeping Cayce.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Just what is reincarnation? It is the belief that each of us goes
+through a series of lifetimes for the purpose of spiritual growth and soul
+development. Cayce’s approach <i>does not </i>include the concept of
+transmigration, which is a related theory and states that it’s possible for
+human beings to be born again as animals. From the standpoint of the Cayce
+material, souls only occupy human bodies throughout their various incarnations.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In essence, the Cayce approach to reincarnation provides a
+philosophical setting to the past focusing on practical ways of dealing with
+this life: living, growing, and being of service to one another in the present.
+For him it wasn’t nearly so important as to who individuals had once been (or even
+what they had been doing), as it was paramount that they focus on the present
+and the opportunities and challenges that faced them in this time, in this
+place, right now.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>From the Cayce readings’ perspective the past merely provided a
+framework of potentials and probabilities. An individual’s choices, actions,
+and free will in the present would determine the actual experience lived this
+time around. Rather than being a fatalistic approach to life, it is much more
+one of nearly limitless opportunities.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Cayce, however, was also familiar with the less positive aspects to
+this philosophy. He contended that some approaches created a misunderstanding
+of the real purpose behind reincarnation. In fact an approach to reincarnation
+that did not take into account freedom of choice created what he called “a
+karmic bugaboo” &#8211; a misunderstanding that provided no arena for the real
+action and interconnectedness that exists among karma, free will, destiny, and
+grace. In his understanding, individuals were very much active participants in
+their life’s journey and not at all simply sometime-reluctant observers.
+However, even to this day, the theory of reincarnation is often misinterpreted
+as a fatalistic journey through experiences and relationships that are ours
+because of our “karma.” In this approach, choices we have made in the past have
+somehow etched in stone our futures, and life is simply a process of going
+through the motions. This is definitely not the Cayce approach to karma.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The word <i>karma </i>is a Sanskrit term that means “work, deed, or
+act”; it has also been interpreted to mean “cause and effect.” Although the
+readings definitely agree with this concept, perhaps one of their most
+intriguing and unique philosophical contributions is the idea that <i>karma can
+simply be defined as memory. </i>It is not really a “debt” that must be paid
+according to some universal tally sheet nor is it necessarily a set of specific
+circumstances that must be experienced because of deeds or misdeeds from the
+past. Karma is simply memory. It is a pool of information that the subconscious
+mind draws upon and can utilize in the present. It has elements that are
+positive as well as those which seem negative. For example, an immediate
+affinity toward an individual is as likely to be “karmic” as is an immediate
+animosity toward someone else. To be sure, this subconscious memory has an
+effect and influence on how we think, how we react, what we choose, and even
+how we look! But the component of free will is ever within our grasp.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In Cayce’s explanation of reincarnation when an individual dies, the
+next lifetime does not occur immediately, for the soul is given a chance to
+take stock of all it has come to know. Then, it has the opportunity to decide
+for itself what lessons it needs to learn next in order to become a more
+complete individual. The soul chooses to be born again into the earth,
+generally among people it has known before. A soul can decide to be born into
+either a male or a female body in any given lifetime or, as Cayce often called
+it, an “incarnation.” The choices made are such that the soul might best
+fulfill that specific purpose chosen for a particular lifetime. It selects
+those surroundings (parents and family, location and time period, etc.) that
+will best allow for the learning of those lessons it needs for completeness.
+The goal is to express love fully in all the challenges that the physical life
+offers. Our experiences, however, are subject to the choices we have made with
+our own free will.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>With our free will, we can turn the challenges life presents to us into
+stepping-stones toward growth, or we can see them as obstacles and stumbling
+blocks. Either way, we reap what we have sown. We constantly meet the
+consequences of previous deeds and attitudes.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>One of the interesting aspects about reincarnation is that talents and
+skills are never lost. Someone who has developed <span class=GramE>an ability</span>
+in one life will still have it to draw upon later. For example, many child
+prodigies with a talent let’s say for music, are born with a conscious
+recollection of this ability that was developed in an earlier life. If a person
+happens to be an excellent English teacher in this life, she or he may have
+been a playwright in the last lifetime, a historian before that and perhaps a
+scribe even earlier. One’s abilities are channeled in those directions that
+will best help that person fulfill the purpose for a particular lifetime.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Another major philosophical contribution the Cayce readings provide is
+the idea that there really isn’t karma “between” people; instead, there is only
+karma with one’s own self. The conceptual challenge, however, is that we seem
+to most effectively come to terms with our own karmic memory or “meet
+ourselves” through our interactions with others. It is this interesting dynamic
+of meeting ourselves through our relationships with other individuals that
+oftentimes causes us to perceive <i>them </i>as the basis of our frustrations
+and challenges, rather than accepting the responsibility as our own.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Yet in spite of the fact that our karma is essentially <i>ours, </i>we
+are constantly drawn toward certain individuals and groups that will enable us
+to meet ourselves in probable circumstances and relationships. They, in turn,
+are drawn toward us in an effort to come to terms with their own karmic memory
+as well. Interestingly enough, it is how each individual decides to “meet self”
+&#8211; one choice at a time &#8211; that will essentially determine the life
+he or she experiences.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>These karmic groups oftentimes reestablish themselves in terms of
+family relationships, work and cultural ties, and even associations on a
+national level. Cayce stated that we never meet anyone by chance, nor do we
+ever have an emotional connection (“positive” or “negative”) with another
+individual for the very first time. Relationships are an ongoing learning and
+experiential process.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Within this framework of lessons that need to be learned as the soul
+strives to meet itself is the central idea that the soul is constantly
+experiencing the consequences of its previous choices. This concept is
+expressed in Biblical terminology as, “What you sow, you must reap” and is
+generally labeled “like attracts like” by students of reincarnation.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Essentially what this means is that we get to experience for ourselves
+the effects our previous choices have had upon other individuals. Rather than
+our lives being predestined or fatalistic in nature, we continue to be in
+control of them (and our perceptions) <i>through how we choose to respond </i>to
+life’s situations that we’ve drawn to us. Ultimately all experiences are for
+our own good and growth, and all experiences are of our own creation.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In practical terms, we may not always be able to understand why a
+certain situation was drawn to us, and in fact the “why” may not be of primary
+importance. What is important is how we choose to respond. For example, two
+people might face very similar circumstances &#8211; let’s say, the loss of a
+job-yet each person might deal with the situation in a very different manner.
+One might spend a great deal of time and energy becoming bitter and angry over
+what happened, and the other might see it as a wonderful opportunity to “start
+all over” and do something which has always been a desire. Although the
+situation is the same, each person’s response is quite different. The way a
+person responds to a situation determines the next experience to be called into
+action.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Reincarnation is a concept that encompasses not only Eastern thought
+but also all of the major religions of the world. It’s a concept that can allow
+us to have more compassion, one for another. It’s a way we can begin to look at
+all facets of life purposefully. However, it doesn’t really matter if another
+individual believes or doubts the theory of rebirth. <span class=GramE>For some
+it can be a helpful concept; for others, confusing.</span> The reason for
+believing in reincarnation is not so that we can dwell upon the past or brag
+about the possibility of having been someone famous in the past. The wisest
+student of reincarnation knows that we have all had incarnations in lowly <i>and
+</i>lofty circumstances. Instead, the purpose is summed up in one of the Cayce
+readings:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;text-indent:36.0pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>“In the studies, then,
+know <i>where </i>ye are going ... to find that ye only lived, died and were
+buried under the cherry tree in Grandmother’s garden does not make thee one
+whit better neighbor, citizen, mother or father! But to know that ye spoke
+unkindly and suffered for it and in the present may correct it by being
+righteous &#8211; that is worthwhile!”<span style="mso-spacerun:yes">&nbsp;
+</span>5753-2<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=1934">Many
+Mansions, Part II</a>, </span></i><span style='font-size:36.0pt'>by Gina
+Cerminara<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>The “Philosophy” chapter of <i><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=30">There <span
+class=GramE>Is</span> a River</a></i>, by Thomas Sugrue<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=298">Edgar Cayce
+on the Akashic Records</a></span></i><span style='font-size:36.0pt'>, by Kevin
+J. Todeschi<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=101">Edgar
+Cayce’s Story of the Soul</a>, </span></i><span style='font-size:36.0pt'>by
+W.H. Church<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>THE READINGS’
+APPROACH To DREAMS AND DREAM INTERPRETATION<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Although it is true that many of us do not make a conscious effort to
+remember our dreams, <i>everyone dreams. </i>During the early part of this
+century, while psychologists such as Sigmund Freud and Carl Jung were
+demonstrating the clinical importance of dreams, Edgar Cayce was providing
+average individuals with guidelines for working with &#8211; what has become
+&#8211; one of the most practical approaches to dreams. Hundreds of Cayce’s
+readings deal with the subject of dreams and dream interpretation. Perhaps the
+most important insights gained from the wealth of this material is the fact
+that each of us is aware of much more-about ourselves, our physical bodies, our
+surroundings, even our life styles-at subconscious levels than we realize when
+we’re awake.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In the dream state we open our minds to many different levels of our
+own unconscious. Not only are all of our previous conscious experiences stored
+there, but it is also the storehouse of resources that rarely come to conscious
+awareness. The subconscious has remarkable talents for finding solutions to
+problems. It houses all of our wishes, hopes, and memories of past experiences,
+and ran also assist us with self-examination, providing practical guidance for
+any question. It even makes it possible for us to have psychic experiences.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Dreams can diagnose the causes of our physical ailments, point out the
+thoughts and emotions that we’ve tried to overlook, and often make suggestions
+for improving our relationships with others. While dreaming, we can gain
+awareness about our entire being: physically, mentally, and spiritually.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>It was Jung, a Swiss psychiatrist and contemporary of Edgar Cayce’s,
+who found convincing evidence for a deep level to the unconscious mind. This
+profound depth, Jung felt came from genuine spiritual reality that hadn’t been
+acknowledged by Freud. Jung called this level the “collective unconscious.”
+Here all minds could communicate through the use of universal symbols &#8211;
+images that seem to have a common meaning among people all over the world. For
+example, a symbol such as a lion or a great cat has a universal or archetypal
+meaning of power and vitality. Birds frequently symbolize various kinds of love
+or concern; water is often suggestive of the Spirit itself. An old man or a
+grandfatherly figure can symbolize our own “Higher Self” or our internal
+wisdom. Myths or fairy tales often have similarities among cultures, and these
+similarities are shown through their universal symbols and themes. Sometimes
+our own dreams may contain these kinds of symbols.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Of course, not all the symbols and images in our dreams represent the
+universal or archetypal. Many, if not most are best interpreted by discovering
+the personal associations one has with that person or object. The dream symbol
+of a gun, for example, would likely mean one thing to a hunter and something
+quite different to a victim of a crime.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>There is really no such thing as a “bad” dream because all dreams have
+the potential of helping the dreamer. Dreams of disastrous events may simply be
+advice to us to change our diets or our attitudes, or they may be emotional
+releases from the various situations in our lives. They can become invaluable
+tools in instruction and guidance if we would only begin to work with them.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>For example, one person who dreamed of a headless man in uniform was
+told in his Cayce reading that instead of losing his head over his duties by
+following the letter of the law and getting too caught up in his job, there was
+a greater lesson to be learned by following the spirit. A person who dreamed of
+a wild man running through the streets, shouting, and causing a great deal of
+trouble was told that the dream was advice for him to control his temper. One
+lady dreamed that a friend of hers was speaking to her. She noticed that the
+woman had beautiful false teeth of different shapes-but every other tooth had
+the appearance of pure gold. She was told that the gold teeth represented the
+spiritual truths of which she herself was often speaking, but they were false
+because she hadn’t applied in her own life what she had been preaching. Another
+woman dreamed that her mother &#8211; who had died &#8211; was alive and happy.
+Cayce assured her that she was not trying to fool herself, that her mother was
+indeed alive and happy: “…for there is no death, only the transition from the physical
+to the spiritual plane.” (136-33)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In trying to arrive at a dream interpretation, one possibility to
+consider is that the dream is largely literal. For example, seeing our self eat
+a salad in a dream may indicate the need for change in our diets to incorporate
+more salads. We may dream of someone we have not heard from in a very long
+while, and then meet that person a short time later. In other cases, the action
+may be more symbolic of what is happening in waking life. Dreaming about
+different rooms that we haven’t yet explored could be pointing to the unopened
+doors of our own personality. A car often symbolizes our physical body and the
+need to make a change or correct a physical condition.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>On the other hand, dreams of birth and death are often more symbolic,
+as they point to new beginnings and perhaps the end of doing things the old
+way. In other words a dream “death” is often the death of a part of our
+personality. For example, a woman who dreams of attending the funeral of her
+minister’s wife may be allowing the spiritual aspects of her own life to be
+overlooked or “laid to rest.” A Dream of being pregnant or taking care of a
+small child who really doesn’t exist in the waking state isn’t necessarily a
+prediction. The dream could merely be pointing out a new condition that will be
+coming our way or a new idea to which we will soon give birth.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>When dreams give guidance or seem to pass judgments, it is usually in
+response to values and ideals we have previously set for ourselves. Most dreams
+can be seen as a kind of comparison (Cayce used the word “correlation”). While
+we sleep, a comparison is made between recent actions and the inner values we
+hold. For example, one woman was advised for health reasons to avoid eating
+chocolate, and yet she continued to eat it anyway. She had a dream in which she
+was crossing the border into Mexico illegally for the purpose of buying
+chocolate. Obviously, she would be the best one to determine that her dream was
+simply pointing out she was doing something she had been told not to do, at one
+level she knew it was “illegal.”<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Scientific studies have shown that each of us dreams, but not all of us
+remember. If we’d like to try working with our dreams, we need to begin keeping
+a note pad by the bedside so that we can jot down whatever we remember
+immediately after waking up &#8211; even if it’s only a feeling. If we get
+enough sleep, if we expect to start remembering our dreams, and if we make an
+effort to record whatever is on our minds when we first wake up, we should be
+able to start remembering our dreams in a relatively short period of time. As
+we look at what’s going on in our lives, and then look at a particular dream,
+we’ll begin to have an idea of what individual symbols may mean to
+us-especially if the symbol repeats itself in later dreams. The symbol won’t
+necessarily mean the same to us as to someone else because dreams are as
+individual as dreamers.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>There is a simple five-step approach to working with dreams that even
+the novice can begin using immediately. Those steps are as follows:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>1. Write down your dreams <i>each
+day.<o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>2. Begin by realizing that
+the <i>feeling </i>you had about the dream is at least as important as trying
+to come up with one interpretation; besides, because of the multiple levels of
+our own beings, dreams generally have more than one meaning.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>3. Remember that-for the
+most part &#8211; every character in the dream represents a part of your self.
+Watch the actions, feelings, expressions, and conversations of these characters
+in your dreams and measure them against the activities in your waking life.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>4. Watch for reoccurring
+symbols, characters, and emotions in your dreams, and begin a personal “dream
+dictionary” of these symbols and what their importance is to you.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:36.0pt;margin-bottom:
+13.0pt;margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:36.0pt'>5. When working with
+dreams, remember, first of all, that your dreams can be extremely helpful even
+if you don’t recognize immediately what they mean; and, secondly, remember to <i>practice,
+practice, practice!<o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Essentially the purpose of dreams is to make us more consciously aware
+of what we are going through in our lives based on our thoughts, feelings, and
+actions. They can show us the desires that are motivating us and help us sense
+the needs of our bodies. They can provide insights for living life more
+creatively and assist us in making important decisions based on what we already
+know at a conscious level. For example, dreams may give us guidance on helping
+to heal a relationship, but only if we’ve already tried to do the best we can
+with that person. When we set our sights and make the decisions that are called
+for, then they will aid us by bringing life into clearer focus. Working with
+our dreams can be like speaking with a trusted friend who knows everything
+about us and is just there for us to discuss what’s going on in our lives. Most
+of the time, the friend will just listen, but in the listening we can begin to
+find<b> </b>answers within our own self. The answers have been there all the
+time; we just never knew how to look for them.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=261&amp;mn=9"><i>Dreams
+Your Magic Mirror</i></a>, by Elsie Sechrist<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=585&amp;mn=9"><i>Dream
+Images and Symbols</i></a><i>, </i><span style='mso-bidi-font-style:italic'>by
+Kevin J. Todeschi<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=84&amp;mn=9"><i>How
+to Interpret Your Dreams</i></a><span style='mso-bidi-font-style:italic'>, by
+Mark Thurston, PhD</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt'><i style='mso-bidi-font-style:
+normal'><span style='font-size:36.0pt'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span></i><span
+style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=3106&amp;mn=9"><i
+style='mso-bidi-font-style:normal'>Dreams and Visions</i></a>, by A.R.E.
+Press/Edgar Cayce Series<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>THE READINGS’
+APPROACH TO ESP AND PSYCHIC PHENOMENA<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The story of Edgar Cayce’s life is filled with examples of what this
+extra sense of communication is like. His ability to give readings in the sleep
+state could be labeled ESP because he somehow <i>knew </i>information that he
+had never studied, and he could <i>see </i>people and places and events without
+using his physical sight. While asleep, he could answer questions on any topic
+or he could give descriptions of the patient and his or<b> </b>her
+surroundings, even though Cayce was in Virginia Beach and the patient might be
+in New York. Because there are so many different types of extra-sensory
+communication, researchers have broken down the term ESP into further
+categories to help explain what is taking place.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Basically, ESP (extrasensory perception) refers to the ability to
+receive or send information in ways not normally associated with the five<b> </b>senses.
+In simplest terms, it is really a method of communicating with one another
+without using sight sound, taste, smell, or touch. According to the Cayce
+readings, it is a method that each of us can use and develop.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>One of these categories is called <i>telepathy, </i>which is also known
+as mind-to-mind communication. This is the ability to obtain information
+psychically by reading the mind of another person. For example, while Cayce was
+in Kentucky, he gave a reading for a man in New York (740-1). He saw the man
+smoking a cigar, heard him whistling a particular song, saw him meet with
+another man about a piece of property, and then he looked over three letters.
+Finally, the sleeping Cayce heard the man telephone another gentleman and knew
+the gentleman’s name. All of these events were later verified. Cayce was able
+to see with this extra sense everything his client in New York had experienced
+firsthand with his normal senses. In our own lives, when we all of a sudden
+start thinking about someone we have not heard from in a long time and a short
+while later the phone rings and that person is on the line, this is one example
+of telepathy.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Another category of ESP is <i>clairvoyance</i>, which is the ability to
+obtain information that no one else has. For example, suppose you shuffled a
+deck of cards and placed them face down, then went through the deck and tried
+to name each card (or at least to tell its color). If your percentage of
+correct guesses went beyond what would be expected by random chance, it would
+be an example of clairvoyance. You would not need to be 100% accurate to
+demonstrate clairvoyance, just statistically (and consistently) greater than
+random chance. On the other hand, if you tried the same experiment only this
+time you had a friend look at each card and concentrate on it before you
+guessed, this would be an example of telepathy.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Looking at one instance from the Cayce readings (2826-1), we find the
+case of a patient who was in Ohio while Cayce was in Virginia Beach. During the
+reading, Cayce correctly gave the patient’s body temperature. Now, if the
+attending doctor in Ohio had known the patient’s temperature before Cayce’s
+reading was given, then this would be an example of telepathy, since Cayce
+could be reading the doctor’s mind. But if the doctor hadn’t known the
+temperature until after Cayce’s psychic reading, it would be an example of
+clairvoyance.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>A third category of ESP is <i>precognition, </i>which is the ability to
+see events before they happen. Many of us have had the experience called <i>deja
+vu. An </i>example of this: You might be having a conversation with a friend
+and, all at once, be absolutely positive that you’ve had the exact conversation
+before. You may even know what your friend is going to say next. The Cayce
+readings suggest that one explanation for this phenomenon is that our dreams
+often foreshadow future events. Such precognitive dreams may be forgotten and
+only dimly felt at those times as <i>deja vu </i>experiences. There are
+countless examples of precognition in the files of the Cayce material. In many
+readings for children, Cayce foresaw what they would be like as adults, even
+going so far as to describe hidden talents and occupational decisions. There
+are also other examples of this precognitive ability. When completing a reading
+for one woman in New York, Cayce suddenly started giving a reading for a woman
+in Missouri, although no one had solicited it. Her request for help, dated the
+day after he had volunteered the information (5700-6), did not arrive until
+after his response had already been mailed. Cayce also predicted the stock
+market crash (900-425) more than six months before it occurred and foresaw the
+outbreak of World War II. He also knew that he would die before his two sons returned
+home from overseas.<o:p></o:p></span></p>
+
+<p class=MsoBodyText style='margin-bottom:13.0pt;text-indent:36.0pt'><span
+style='font-size:36.0pt'>Although some individuals have called Cayce a
+“prophet” he himself made no such claims. In fact in one reading he described
+himself as a “lowly, weak, unworthy channel” (254-76). He rarely made any
+predictions about worldwide events, mostly because these kinds of predictions
+are subject to countless outside influences. For example, when psychics try to
+“predict” the future, all they can actually do is foretell a possible future
+based on current happenings. If events continue to occur along the same course
+&#8211; if people’s attitudes, life styles, and world conditions remain the
+same &#8211; then psychics can “see” what the result will be. However, the
+readings make it quite clear that each of us has the gift of free will. If enough
+people use their free will and change what they are currently doing, this in
+turn will have dramatic effects on the future.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>In the Bible, Jonah went to the evil city of Nineveh to tell the people
+about the destruction that was about to come upon them. However, the people of
+the city repented of their evil ways. With their free will they changed their
+lives and, as a result their city was saved. The ability of precognition, then,
+is subject to many more influences than either telepathy or clairvoyance.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The fourth major category of ESP shown in the Cayce readings is <i>retrocognition,
+</i>which is the ability to see past events. For example, in the life readings
+(those readings which dealt with the soul) Cayce would often state significant
+happenings in a person’s life while going back over the years until the date of
+the person’s birth. In one reading he said, “1935-’32-disturbing
+periods-’31-’36-’26-not any too peaceful!” etc. (1650-1) In another life
+reading (1462-1) Cayce was given the incorrect date and location of birth for a
+young girl. In going back over the years he responded with, “We don’t find it
+here.” (He had been incorrectly told that the child was born on January 24,
+1919, in Cleveland, Ohio.) Then, after a short pause, he finally said, “Yes, we
+have the record here (looks like it’s the wrong place and date).” It was later
+discovered that the girl had been born on the 23rd of January (a day earlier)
+in New York City and not in Cleveland.<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>More than eleven years before the Dead Sea Scrolls were found in 1947,
+Cayce’s readings described a sect of Judaism about which scholars knew little.
+This group was the Essenes. Cayce gave a great deal of information about their
+work and their life in the community. For example, he claimed that in the
+Essene society men and women worked and lived together. At the time of the
+reading, scholars believed that the Essenes were a monastic society composed
+exclusively of men. However, in 1951, more than six years after Cayce’s death,
+archaeologists made further excavations at Qumran near the site where the Dead
+Sea Scrolls were found. They discovered evidence that both men and women lived
+together in the Essene society.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>These are just a few of the many examples of ESP in the Cayce readings.
+Cayce claimed that everyone was psychic to some degree because psychic activity
+was a natural ability of the soul. In fact, this idea perhaps best defines the
+readings’ approach to psychic ability. Because “psychic is of the soul,” the
+Cayce information suggests that it is relatively easy to induce personal
+psychic experiences. However<i>, </i>the phenomenon that manifests itself
+through psychic channels can oftentimes get us off the track. The readings
+suggest that instead of seeking psychic experiences for the sake of having
+them, we should seek only those within the context of spiritual growth, of
+learning about ourselves, or of being of service to others.<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>People often have the tendency to make psychic experiences seem
+unusual, out of the ordinary, special, somehow set apart or perhaps even
+frightening. However in the Cayce approach, psychic information is as natural
+as intuition or a “hunch.” In addition, just because something is “psychic”
+does not mean it’s 100% accurate. We may wish to work with psychic information
+to the same degree that we would listen to the advice of a trusted friend: It
+can be utilized as an additional tool for gathering insights and for making
+decisions &#8211; it shouldn’t necessarily be given any more credence than
+information from any of our other friends (or senses); however, it shouldn’t be
+given any less either. In time, individuals may work with their own intuition
+in such a way that it becomes as natural as using any of their other senses:
+taste, smell, touch, hearing, or sight.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=630&amp;mn=9">Psychic
+Children</a>, </span></i><span style='font-size:36.0pt'>by Peggy Day and Susan
+Gale<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2470&amp;mn=9">Edgar
+Cayce on Religion, Spirituality, and Psychic Experience</a>, </span></i><span
+style='font-size:36.0pt'>by Harmon Bro, PhD<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=1931&amp;mn=9">Psychic
+Sense</a></span></i><span style='font-size:36.0pt'>, by A.R.E. Press/Edgar
+Cayce Series<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText2 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>THE
+READiNgs’ APPROACH TO SPIRITUAL GROWTH, MEDITATION, AND PRAYER<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>One of the major subjects in the readings has to do with spiritual
+growth, meditation, and prayer. For this reason, over a period of eleven years
+(1931 - 1942) Edgar Cayce gave a series of 130 readings to a group of
+individuals (Study Group # 1) who were working with spiritual laws.
+Interestingly enough, some members of the group had originally been interested
+in obtaining information on how to become more psychic. Cayce responded that
+the goal was rather to become more spiritual, and, as individuals worked more
+consistently with spiritual principles, they would naturally become more
+psychic.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>This set of readings on spiritual growth has served as a guide for many
+others from every religious background, enabling them to become more aware of
+themselves through cooperation, prayer, faith, meditation, and love. Thousands
+of individuals have studied this material compiled by the first<b> </b>Study
+Group. These interdenominational discussion groups examine these readings on
+soul growth in individual homes all over the world. (If you are interested in
+visiting a group near you, please contact A.R.E.’s Search for God Department.)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>From Cayce’s perspective, we are essentially spiritual beings who
+&#8211; at the moment &#8211; happen to be in the earth. We are not simply
+physical bodies with souls but are instead souls who happen to be in physical
+bodies as a means of gathering experience. [It is interesting to note that in
+the Bible a spiritual being was created (Genesis 1) before a physical being
+(Genesis 2).] Since part of our purpose in the earth is to come to know our
+true relationship with God, perhaps more than anything else meditation is a key
+to understanding that relationship.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Edgar Cayce began recommending meditation as early as 1921, long before
+many even knew what it was. Most of us began to hear about meditation during the
+1960s and ‘70s. At first<b>, </b>we might have thought it was something unusual
+or even bizarre, or else we might have thought it was something practiced only
+by Eastern religions. However, a great deal of clinical research has proven
+that meditation can-at the very least-positively affect our health and <span
+class=GramE>well-being</span>. By practicing this method of becoming silent,
+individuals can reduce their anxiety levels and learn to become more relaxed.
+Many physicians now recommend meditation as an effective way for their patients
+to lower their blood pressure.<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>In simplest terms, meditation is the practice of quieting our physical
+bodies and our minds, and focusing our attention inward instead of upon the
+outside world. It promotes coordination at three levels: physically, we begin
+to relax; mentally, our busied thoughts become quiet and, spiritually, we
+become re-energized and are able to deal more lovingly and effectively with the
+people and events around us. As we take the time each day to put away from our
+thoughts the countless cares with which we’re bombarded, we can begin to
+reestablish an awareness of our own spiritual nature. In one respect prayer is
+talking to God, but meditation is listening to that portion of our being which
+is in constant communion with the Divine.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>By following a few simple steps, anyone can meditate. Even a beginner
+can experience the calming effects of a few moments of purposeful silence.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>If you would like to try to meditate, the first<b> </b>step is to get
+into a comfortable position. It’s probably best to sit in a chair, keeping your
+spine straight your feet flat on the floor, and your eyes closed. Find a
+comfortable place for your <span class=GramE>hands,</span> either put them in
+your lap or at your sides. Slowly take a few deep breaths and begin to relax.
+Breathe the air deep into your lungs, hold it for a moment and then slowly
+breathe it out. With your mind, search your body for any obvious tension areas
+or tight muscles. You can try to relieve the tension by deep breathing,
+imagining the area as relaxed or gently massaging any tight spots with your
+fingertips. When you have finished getting comfortable and relaxed, then you
+are ready to move on to the next step.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The second step is to begin to focus your mind on one, single,
+peaceful, calming thought. Instead of thinking about what went on at work today
+or what has to be done with the remainder of your day, try focusing on a
+thought such as “I am relaxed” or “I will be still and feel at peace.” You can
+also use a Biblical verse or a phrase with a spiritual focus, such as “God is
+Love.” These thoughts are also called affirmations. The first way to work with
+them is to try to clear your mind of everything else.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The first “stage” of actual meditation involves thinking about the
+message of your affirmation. In the last example cited above, you would think
+about the words <i>God is Love. </i>After a few moments of <i>thinking </i>the
+words, you should be able to move onto the second stage of meditation, which is
+<i>feeling </i>the meaning behind those words. For example, you can say the
+words “God is Love”; however, the feeling of those words can be much more
+meaningful than the actual words themselves.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The third step is to hold the feeling in silent attention, <i>without </i>needing
+the words of the affirmation. Gently bring your focus back to the words of the
+affirmation every time your mind begins to wander; that is to say, first begin
+thinking of the words of the affirmation, then try to concentrate on the <i>feeling
+</i>behind them. Don’t let yourself become discouraged when you find yourself
+thinking more about distractions than focusing upon the affirmation. It will
+take time to teach your self to be able to think about only one thought. Spend
+from three minutes to fifteen minutes trying to hold the affirmation silently.
+The longer meditation periods are for when you have built up some experience.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>The fourth step is to send out good thoughts or prayers to other people
+when you feel your meditation time is coming to an end. If you have been
+focusing on peace, then try to send a sense of that peace to someone about whom
+you’re concerned. As you begin to practice meditation daily, it will become
+easier. You might also notice that the sense of peace inside you during
+meditation will begin to carry over into the different parts of your day.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Cayce’s approach to meditation differs from that of some schools of
+thought that contend that because the mind gets in the way of the meditator, it
+should be blanked out. The readings suggest that mind is a constructive force,
+allowing for the closest attunement possible if used in the right way.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>Through the regular practice of meditation we can begin to heal
+ourselves in body, mind, and soul. As we focus on a positive affirmation, we
+may find that our negative habit patterns begin to change to be more in keeping
+with a positive direction. It is while practicing the silence of meditation, by
+relaxing our physical bodies and quieting our conscious minds, that we can set
+aside our daily concerns for a moment and attempt to attune ourselves to the
+spiritual side of our nature.<o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='margin-bottom:13.0pt'><span style='font-size:
+36.0pt'>From the standpoint of the Edgar Cayce readings, the most important
+relationship each of us has is that relationship with God. One of the most
+beneficial ways we can come to know that relationship is through the regular
+practice of meditation. For this reason, the readings suggest that meditation
+is something that every single soul should learn to do.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'>A Search for God, </span></i><span
+style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=47">Book I</a>
+and <a href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=73">Book
+II</a>, compiled by the original study group<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=3876&amp;mn=9">From
+Karma to Grace</a>, </span></i><span style='font-size:36.0pt;mso-bidi-font-style:
+italic'>by John Van Auken<i><o:p></o:p></i></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=115&amp;mn=9">Your
+Life: Why It Is the Way It Is and What You Can Do About It</a></span></i><span
+style='font-size:36.0pt'>, by Bruce McArthur<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=82&amp;mn=9">Healing
+through Meditation and Prayer</a>, </span></i><span style='font-size:36.0pt'>by
+Meredith Ann Puryear<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=2515&amp;mn=9">Toward
+a Deeper Meditation</a></span></i><span style='font-size:36.0pt'>, by John Van
+Auken<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<span style='font-size:36.0pt;font-family:"Arial";mso-fareast-font-family:
+"Arial";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>The Edgar Cayce
+Legacy<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'>What is most exciting about these readings is their internal
+consistency. When the more than 14,000 readings are taken as a whole, there is
+a wealth of material on medicine, history, life after death, dreams, psychic
+ability, attitudes and emotions, child-rearing, diet and
+relationships-providing helpful insights into nearly any topic imaginable. In
+the forty-three years that the readings were given, Cayce never heard a word he
+said in this sleep state, nor did he remember anything when he awoke. To
+understand the nature of his own work, he spent many long hours poring over the
+information in the readings that had been written down by his secretary. His
+story is really that of a humble man who went on to become one of the most
+helpful psychics the world has ever known. The information in the readings,
+available to us today, is his gift to the world.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;text-indent:
+36.0pt;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
+36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'>Recommended Reading
+about Cayce’s life:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=30&amp;mn=9">There
+Is a River</a>, </span></i><span style='font-size:36.0pt'>by Thomas Sugrue<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=4389&amp;mn=9">A
+Seer Out of Season</a></span></i><span style='font-size:36.0pt'>, by Harmon
+Hartzell Bro, PhD<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:36.0pt'><a
+href="http://www.arecatalog.com/ProductCatalog/Product.aspx?ID=621&amp;mn=9">In
+a Waking State: Edgar Cayce Lectures</a></span></i><span style='font-size:36.0pt'>,
+by Richard Peterson<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText style='margin-bottom:13.0pt'><span style='font-size:36.0pt'>For
+further information about A.R.E. activities around the world, please contact:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span class=GramE><span style='font-size:36.0pt'>Edgar Cayce’s A.R.E.</span></span><span
+style='font-size:36.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>215 67<sup>th</sup> Street<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>Virginia Beach, VA 23451-2061<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'>(757) 428-3588; or, (800) 333-4499<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><a href="http://www.EdgarCayce.org">www.EdgarCayce.org</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:13.0pt;
+margin-left:36.0pt;text-align:justify;mso-layout-grid-align:none;text-autospace:
+none'><span style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
